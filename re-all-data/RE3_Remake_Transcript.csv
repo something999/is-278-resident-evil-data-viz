@@ -38,13 +38,13 @@ Jill,Female,Sorry.
 Helicopter Loudspeaker,,You down there! Get to the parking garage roof!
 Jill,Female,Parking garage. Got it.
 Jill,Female,"Sir, are you alright?"
-Man,Male,Stay back! Don't come any closer!
+Dario,Male,Stay back! Don't come any closer!
 Jill,Female,"Hey, come on. There's a helicopter waiting to take you to safety."
-Man,Male,What safety? I'm not going out there!
+Dario,Male,What safety? I'm not going out there!
 Jill,Female,The parking garage isn't far. I can take you there.
-Man,Male,The only safe place is in here!
+Dario,Male,The only safe place is in here!
 Jill,Female,"Sir, what's your name? I can't just leave you behind."
-Man,Male,"It's Dario Rosso. And yeah, right. You just want to steal my safehouse! Get your own, missy!"
+Dario,Male,"It's Dario Rosso. And yeah, right. You just want to steal my safehouse! Get your own, missy!"
 Jill,Female,“Missy”? Would you please calm down? I'm a police officer. I'm here to help.
 Dario,Male,"Oh, yeah, you've been doing-a-bang-up job. You wanna help? Go handcuff yourself to one of those freaks."
 Jill,Female,"Sir, this is your last chance. No one else is coming-for-you."
@@ -55,8 +55,8 @@ Jill,Female,Hey! Down here!
 Helicopter Loudspeaker,,"Hey, get in!"
 Jill,Female,"(throwing a dead man out of his car) Sorry… Oh, come on. Start, dammit!"
 Jill,Female,"It's my turn, bitch!"
-Man,Male,"Hey, fuckface."
-Man,Male,"Hey, easy lady… I got ya."
+Carlos,Male,"Hey, fuckface."
+Carlos,Male,"Hey, easy lady… I got ya."
 Jill,Female,Who are you? What are you do—
 Man,Male,"Name's Carlos and I'm saving you! C'mon, let's get you someplace safe."
 Carlos,Male,I think we're in the clear.
@@ -75,9 +75,9 @@ Carlos,Male,Whoa whoa whoa whoa. What are you talking about? We're just here to 
 Jill,Female,What's wrong with Umbrella? Oh my god. Your company is responsible for infecting everyone!
 Carlos,Male,"Yeah, uh, I don't know anything about all that. You don't have to trust me, but I'm going to the shelter. You comin'? C'mon. It's this way."
 Carlos,Male,Hey Captain. This fine young lady could use our help.
-Captain,,"Carlos, you didn't even think to ask fine young lady her name? She is an elite operative of R.P.D. Special Tactics and Rescue Service. Her name is… something... Valentine."
+Mikhail,,"Carlos, you didn't even think to ask fine young lady her name? She is an elite operative of R.P.D. Special Tactics and Rescue Service. Her name is… something... Valentine."
 Jill,Female,It’s Jill.
-Captain,,"Nice to meet you, Jill. I am U.B.C.S. Platoon Leader Mikhail Victor. My team was sent here to rescue civilians."
+Mikhail,,"Nice to meet you, Jill. I am U.B.C.S. Platoon Leader Mikhail Victor. My team was sent here to rescue civilians."
 Jill,Female,Right. How's that going for you?
 Mikhail,Male,"The city is completely cut off. Isolated. Most of the hundred thousand civilians will wind up dead. Ah, correction: undead. My platoon has suffered serious losses. Just keeping them alive is more than I can manage."
 Jill,Female,"Well, you can thank your corporate overlords for that."
