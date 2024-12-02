@@ -1,9 +1,9 @@
 Character,Gender,Line
-Narrator,,"A small mid-western town in America: Raccoon City. A solitary island far off in the sea: Rock Fort Island. An island that would become the second Raccoon City: Sheena Island. There are still many unanswered questions about these seemingly unrelated and yet intensely traumatic events. Though it is believed that the international enterprise, Umbrella was somehow involved, little is known as to the origin of this faceless corporation. When was it established? By whom? And how was the T-Virus created? To uncover the truth, we must delve deeper into the events which transpired in the beginning before the mansion incident."
+Narrator,,"A small mid-western town in America: Raccoon City. A solitary island far off in the sea: Rock Fort Island. An island that would become the second Raccoon City: Sheena Island. There are still many unasnwered questions about these seemingly unrelated and yet intensely traumatic events. Though it is believed that the international enterprise, Umbrella was somehow involved, little is known as to the origin of this faceless corporation. When was it established? By whom? And how was the T-Virus created? To uncover the truth, we must delve deeper into the events which transpired in the beginning before the mansion incident."
 Man,Male,Really?
 Woman,Female,"Hmm, do you think so too?"
 Bald Man,Male,Yeah.
-White Man,Male,.do about it?
+White Man,Male,...do about it?
 Black Man,,We should hold off for a while.
 White Man,Male,I wonder how those RNP people will react to this?
 Man With Glasses,Male,Hmm?
@@ -106,7 +106,7 @@ Wesker,Male,"She's just a rookie, a member of S.T.A.R.S."
 Birkin,Male,"Hmm, and what about the male."
 Wesker,Male,I'm unfamiliar with him.
 Birkin,Male,Hmm?
-Marcus,Male,"Attention! This is Dr. Marcus. Please be silent as we reflect upon our company motto. Obedience breeds discipline, discipline breeds unity, unity breeds power, power is life."
+Voice,,"Attention! This is Dr. Marcus. Please be silent as we reflect upon our company motto. Obedience breeds discipline, discipline breeds unity, unity breeds power, power is life."
 Wesker,Male,Who are you?
 Queen Leech,,"It was I who scattered the T-Virus in the mansion, needless to say I contaminated the train too."
 Birkin,Male,What?
@@ -186,7 +186,7 @@ Rebecca,Female,"Yes, but we got separated and.."
 Enrico,Male,"No point worrying about him. He won't make it. Come on, let's go!"
 Rebecca,Female,"Sir, please. I need to find him. Don't worry, I'll catch up with you."
 Enrico,Male,"Rebecca.. (sighs) All right, just be careful."
-Rebecca,Female,I never saw him again.
+Rebecca'S Voice,,I never saw him again.
 Rebecca,Female,What is that?
 Queen Leech,,(laughs) Playtime is over. You and your friends no longer amuse me. Good riddance. Now nothing will stop me from getting my revenge!
 Rebecca,Female,Billy!

@@ -1,0 +1,978 @@
+﻿Character,Gender,Line
+Caller,,"Look man, I’m serious, OK? I saw this with my own eyes."
+Anchor,,"Oh, I believe you, buddy, I believe you. Just tell us a story, tell us a story."
+Caller,,"OK, well, it was last Friday night - I was walking home from the bar… This woman started coming towards me… She was a staggering, you know… So I, I figured she was drunk."
+Anchor,,"Whoa, whoa, whoa, OK. Tell us, be honest now, how many drinks did you have?"
+Caller,,"No man, I, I barely had a buzz on."
+Anchor,,"Oh, c’mon!"
+Caller,,"No, just listen, alright? She got closer, I got a good look at her. You had to see her eyes, her nose. Her whole face looks like it was rotting!"
+Anchor,,Ew…
+Caller,,"She looks like a corpse - like a walking corpse, man!"
+Trucker,,Heh. Sounds like my wife.
+Caller,,I’ve never seen anything like it. I haven’t been able to sleep since that night.
+Anchor,,"Alright, calm down, buddy, calm down. Just… Hey. You gotta stay strong, OK? Don’t give in to fear out of there, right?"
+Caller,,"Yeah, well you go to that right. If you freeze up around these things… they’ll sink their teeth into you. I saw it attack somebody."
+Trucker,,Come on… Just gettin’ good. I need some sleep.
+Trucker,,"Oh, shit!"
+Trucker,,"No! No, no, no. What do I do? What am I gonna do?"
+Leon,Male,No one’s around? That’s weird.
+Leon,Male,Huh?
+Leon,Male,Hello? Anybody there? Something’s not right.
+Leon,Male,You all right? Don’t move. I’ll be back for you.
+Leon,Male,Hey! What’re you doing?
+Officer,,Stop moving!
+Leon,Male,"Officer, you need help?"
+Officer,,"Stay back, sir, I got this."
+Leon,Male,"Get off him, right now!"
+Officer,,Help me.
+Leon,Male,What the fuck? Freeze! I’ll shoot!
+Leon,Male,What the?
+Claire,Female,Don’t shoot!
+Leon,Male,Get down!
+Leon,Male,You alright?
+Claire,Female,"Yeah, I think so. Thanks."
+Leon,Male,"You can thank me later, when we’re safe."
+Claire,Female,Holy shit.
+Leon,Male,Come on! Get in! Hold on!
+Claire,Female,What the hell is going on?
+Leon,Male,"I don’t know. Hopefully, they’ll have some answers at the police station."
+Claire,Female,"Wait, you’re a cop?"
+Leon,Male,"Yeah, Leon Kennedy. You are?"
+Claire,Female,Claire. Claire Redfield.
+Leon,Male,Live around here?
+Claire,Female,"No, looking for my brother. He’s a cop, too."
+Leon,Male,"Well, it’s a good thing we found each other. I don’t know what to expect anymore."
+Loudspeaker,,"Attention all citizens. Due to the citywide outbreak, you are advised to take shelter at the Raccoon City police station. Free food and medical supplies will be provided to everyone in need."
+Claire,Female,"Oh my god, this is so unreal."
+Leon,Male,The police station’s not much farther. They’ll know something.
+Claire,Female,"Yeah, but what if we’re the only ones? What if there’s no survivors?"
+Leon,Male,No. There’s survivors. It’s a big city. There has to be.
+Leon,Male,Looks like we’re walking from here.
+Claire,Female,More like running.
+Leon,Male,"Yeah, good call."
+Leon,Male,Jesus Christ!
+Claire,Female,Leon! We gotta back up! What the?
+Leon,Male,"Holy shit! Claire, get out! Get out now!"
+Claire,Female,I can’t!
+Leon,Male,Hold on!
+Leon,Male,"Oh, no."
+Leon,Male,"Claire! Claire, you OK?"
+Claire,Female,Yeah! I’m alright! How about you?
+Leon,Male,I CAN’T STAY HERE! IT’S NOT SAFE! I’LL MEET YOU AT THE STATION!
+Claire,Female,I’LL BE THERE!
+Leon,Male,"This is outta control! Shit. It’s everybody! They’ve all turned. There it is, the station."
+Leon,Male,Hello? Is anybody here?
+Leon,Male,There has to be someone here.
+Leon,Male,Not good.
+Elliot,,David! Marvin! You there? I found a way out! It’s in here! Send reinforcements! East Hallway!
+Leon,Male,OK. I gotta find that guy. Jesus.
+Elliot,,OPEN UP! HURRY! OPEN UP! OPEN THIS GODDAMN DOOR!
+Leon,Male,I’ll get you out!
+Elliot,,HELP ME! PLEASE! HELP ME!
+Leon,Male,Gimme your hand! I got you. Gimme your other hand!
+Leon,Male,Hang in there!
+Leon,Male,Oh my god. Jesus Christ.
+Leon,Male,Jesus! They’re everywhere! Come on! Goddammit! Watch out!
+Marvin,Male,"Got it! You’re safe, for now."
+Leon,Male,Thanks.
+Marvin,Male,Marvin Branagh.
+Leon,Male,"Leon Kennedy. There was another officer. I, I couldn‘t. I couldn’t."
+Marvin,Male,"I’m sure you did what you could, Leon."
+Leon,Male,Does anyone know what started this?
+Marvin,Male,"Not a clue. But honestly, all you need to know is that this place will eat you alive if you aren’t careful."
+Leon,Male,"Yeah, well, I was supposed to start last week and I got a call to stay away. I wish I’d come here sooner."
+Marvin,Male,"You’re here now, Leon. That’s all that matters."
+Leon,Male,"OK, Lieutenant, I’m ready."
+Marvin,Male,"Hopefully, you’ll be able to find a way out of this station. That officer you met earlier—Elliot. He thought this secret passageway might do the trick."
+Leon,Male,This is good news. We can get you to a hospital.
+Marvin,Male,"No, no, I am not the priority here."
+Leon,Male,"Lieutenant, I’m not just gonna leave you here—"
+Marvin,Male,"I’m giving you an order, rookie. You save yourself first. I’d come with you, but I’d just slow you down… Now… you’ll need this."
+Leon,Male,I can’t take—
+Marvin,Male,Stop. And don’t make my mistake. If you see one of those things—uniform or not—you do not hesitate. You take it out… or you run. Got it!?
+Leon,Male,"Yes, sir."
+Leon,Male,This is not how I imagined my first day…
+Police Radio,,This is 73-Bird—for rescue. —heading east—River. Touchdown at R.P.D.—minutes.
+Leon,Male,"What…? Oh… Oh, what the fuck!? Huh? What!?"
+Leon,Male,What in the—!?
+Marvin,Male,"Leon, it’s Marvin. I need you back here ASAP."
+Leon,Male,"Are you OK, Marvin?"
+Marvin,Male,I’ve got something to show you. It’s important.
+Leon,Male,"Copy that, I’ll be right there."
+Marvin,Male,"There you are… Come here, take a look."
+Leon,Male,Yes! I knew she’d make it.
+Marvin,Male,You know her?
+Leon,Male,"Yeah, name’s Claire. I came into town with her."
+Marvin,Male,You can get to that courtyard through the second floor… east side.
+Leon,Male,"I’m on it. Thanks, Lieutenant."
+Marvin,Male,So Elliot was right…
+Leon,Male,"Yeah, but the passage isn’t open yet."
+Claire,Female,HEY! LEON!?
+Leon,Male,CLAIRE! HOLD ON! I’LL BE RIGHT THERE!
+Claire,Female,OK!
+Leon,Male,Claire… It is so nice to see you.
+Claire,Female,How’re you doing? That helicopter just came out of nowhere…
+Leon,Male,Yeah… I’m in one piece.
+Claire,Female,I’m guessing you don’t have a key in one of those fancy pockets?
+Leon,Male,"Unfortunately, no… But, how are you doing?"
+Claire,Female,"You know, just surviving."
+Leon,Male,That’s good. Any luck with your brother?
+Claire,Female,"No, not yet."
+Leon,Male,"Claire, don’t lose hope… I’m sure we’re gonna find him—"
+Leon,Male,Dammit. You know what that means…
+Claire,Female,Yeah… Dinner time.
+Leon,Male,"Claire, I think you should go."
+Claire,Female,"Don’t worry about me, Leon. You take care of yourself."
+Leon,Male,"Claire, you need to go—NOW!"
+Claire,Female,Hey… Let’s get through this. Both of us.
+Leon,Male,"Uh, Marvin. I’ve got a situation here… I’m surrounded by zombies! Marvin! Do you copy? Marvin!? Dammit!"
+Leon,Male,Still alive…
+Leon,Male,What in God’s name…?
+Leon,Male,"So it goes underground… Huh. That’s it—that’s our way out. Lieutenant Branagh! Marvin! It’s time to go! Hey, Marvin… We need to get you to a hospital right now."
+Marvin,Male,"No, no… I… Save yourself…"
+Leon,Male,"Come on, I’ve got you—"
+Marvin,Male,GO!
+Leon,Male,"Look, we can still make it out of here together, if you just gimme—"
+Marvin,Male,"It’s too late. I tried, Leon… But I couldn’t stop it. We can’t let this thing spread. It’s on you now. Just go…"
+Leon,Male,I understand.
+Leon,Male,"I won’t let you down, Marvin."
+Leon,Male,What the—!?
+Leon,Male,Oh my god! Jesus. Words won’t work on this thing…
+Leon,Male,Somebody’s watching me…
+Leon,Male,Damn. Need a key card…
+Leon,Male,You gotta be kidding me… Agh! Get off of me!
+Ada,Female,Hey.
+Leon,Male,Who is that?
+Ada,Female,Stay sharp.
+Ada,Female,Lower it. FBI.
+Leon,Male,Sorry… Thank you— For your help.
+Ada,Female,Surprised you made it this far.
+Leon,Male,"FBI, huh? What’s going on here?"
+Ada,Female,Sorry. That information’s classified.
+Leon,Male,Where are you going?
+Ada,Female,Do yourself a favor: stop asking questions and get the hell out of here.
+Leon,Male,Hey! I’m not done talking to you!
+Ben,Male,Hello?
+Leon,Male,Hey.
+Ben,Male,"I don’t believe it. A real human. Hello, human."
+Leon,Male,You been here long?
+Ben,Male,Long enough. Are we the last ones alive?
+Leon,Male,"No, no, there’s a few of us…"
+Ben,Male,"Oh… that’s good news, I guess. Unless, of course, Irons sent you."
+Leon,Male,Irons…? You mean Chief Irons? Is he still around?
+Ben,Male,"Who cares. Hopefully, he’s somebody’s dinner by now."
+Leon,Male,What do you mean by that?
+Ben,Male,He’s the bastard that locked me in here.
+Leon,Male,I’m sure he had a good reason.
+Ben,Male,"He did. I was about to blow the whistle on his dirty ass. I’d have done the same thing too, I guess. Hey! I’ll make you a deal… Unlock this cell and I’ll give you this. There’s no other way outta that parking garage! Believe me!"
+Leon,Male,Sorry… I can’t do that. I have to talk to the chief first.
+Ben,Male,"Look, we’re both prisoners in this station. So either we play nice and help each other out— Shit. It’s coming."
+Leon,Male,What—what’s coming?
+Ben,Male,"C’mon—c’mon, don’t be an asshole… OK? You need this! Just get me the fuck outta here!"
+Leon,Male,"Oh, my god… Who is that!?"
+Ada,Female,"It’s just me, so you can put that thing away."
+Leon,Male,I don’t even know what happened— It’s just… happened so quick.
+Ada,Female,"I told you to get out of here. You wouldn’t want to end up like Ben, would you?"
+Leon,Male,You knew him?
+Ada,Female,He was an informant. Had information of use to my investigation.
+Leon,Male,"So what he said was true? Hey, you can’t keep walking away from me! I don’t even know your name! I’m Leon Kennedy."
+Ada,Female,"Find a way out, Leon. Before it’s too late. Then we’ll talk. Name’s Ada."
+Leon,Male,"Well, I guess the deal‘s on."
+Leon,Male,Ugh… What in the world…?
+Leon,Male,"Marvin… Aw, no… Dammit."
+Leon,Male,"I’ll stop this, lieutenant… I promise."
+Leon,Male,Hope I don’t have to write a report on this…
+Leon,Male,Huh?
+Ben,Male,But that doesn’t explain the rumors about the orphanage. I- I just find it way too coincidental Umbrella’s one of the benefactors.
+Annette,Female,You told me this interview was about the new scholarship Umbrella set up.
+Ben,Male,"Come on, Annette. Nobody cares about that. They want to know about the G-Virus, and the—"
+Annette,Female,Where did you hear about this?
+Ben,Male,"—and that big fucking sinkhole in the city which, by the way, rumor has it goes straight to your underground lab."
+Leon,Male,Lab?
+Ben,Male,"Now, are you going to talk to me or are you—"
+Annette,Female,This interview is over.
+Ben,Male,Bitch.
+Leon,Male,Hmm… What are they after?
+Leon,Male,That’s not good.
+Leon,Male,Gimme a break.
+Leon,Male,Ada!?
+Ada,Female,This is getting old… Saving your ass—that’s twice.
+Leon,Male,I didn’t realize you were keeping score.
+Ada,Female,"Look, this isn’t a game!"
+Leon,Male,You gotta be kidding me.
+Ada,Female,Nothing dies down here.
+Ada,Female,I take it you have the key card?
+Leon,Male,"Yeah, and this… I was hoping you could explain what’s on it."
+Ada,Female,Maybe… After I hear it. Let’s get out of here. We might want to open the shutter.
+Leon,Male,ls that the intel you needed?
+Ada,Female,"Unfortunately, no. Ben didn’t come through."
+Leon,Male,"Well, what exactly are you looking for?"
+Ada,Female,More info on the people responsible for this mess. What about you? Trying to save the world?
+Leon,Male,I told Lieutenant Branagh I’d bring help.
+Ada,Female,Good luck getting that… Road’s out. Going through that gun shop looks like the only way.
+Ada,Female,What a mess…
+Kendo,Male,Don’t move!
+Leon,Male,I’m not going to hurt you—
+Kendo,Male,I said DON’T MOVE!
+Leon,Male,I’m just passing through. I’m going to ask you to lower that weapon.
+Kendo,Male,"Like hell you are! You’re going to turn around, and go right back out the way you came in."
+Leon,Male,"I think your daughter needs help, sir."
+Kendo,Male,Don’t tell me how to deal with my daughter.
+Ada,Female,Drop it!
+Kendo,Male,No! Wait!
+Ada,Female,Step aside. We need to terminate her before she turns.
+Kendo,Male,“Terminate”? That’s my fucking daughter!
+Leon,Male,Ada… Just let them be.
+Kendo,Male,"Emma, sweetheart, I told you to stay put…"
+Emma,Female,Daddy…?
+Kendo,Male,"Yeah, Emmie. Daddy’s here. I’m here, OK? Those fuckin’ things outside… Look what they did to us. You’re a cop. You’re supposed to know something—how did this happen!? HUH!? She was our sweet little angel…"
+Emma,Female,Mommy…?
+Kendo,Male,"Mommy’s sleeping, honey, OK? …Emma."
+Kendo,Male,Just go… Just give us some privacy.
+Leon,Male,"You know, it’s one thing to keep the truth from me! But why him?"
+Leon,Male,I want to find out what’s happening here. And stop whoever’s behind it. Helping people like them… that’s why I joined the force.
+Ada,Female,My mission is to take down Umbrella’s entire operation. We may not make it out.
+Leon,Male,Whatever it takes to save this city… count me in.
+Ada,Female,Heard of the Umbrella Corporation? They’re a pharmaceutical company secretly making bioweapons. They have a virus—it turns people into indestructible monsters.
+Leon,Male,That explains the horrible things I’ve seen…
+Ada,Female,And that’s why I’m looking for Annette Birkin— She’s the one at Umbrella responsible for unleashing the virus. I’m going to bring her down.
+Ada,Female,This is how we get to Annette.
+Leon,Male,"Based on what you’ve said, the sewer seems fitting."
+Ada,Female,Well said. After you…
+Leon,Male,"Gee, thanks. Can’t imagine a real scientist being down here…"
+Ada,Female,According to HQ… this leads right into Umbrella’s secret facility.
+Leon,Male,Come on. Sewers are run by the city. How could they have a facility… without the authorities knowing?
+Ada,Female,Welcome to corporate America. Umbrella’s controlled Raccoon City for years.
+Leon,Male,Jesus… That an earthquake?
+Ada,Female,I sure as hell hope so.
+Leon,Male,What the hell…!?
+Ada,Female,Stay sharp! God only knows what’s down here…
+Leon,Male,Again!?
+Ada,Female,"It’s not too late to turn back, Leon."
+Leon,Male,No chance. You’re stuck with me to the end.
+Leon,Male,You sure this is the right way?
+Ada,Female,Unfortunately.
+Leon,Male,Wait there.
+Leon,Male,Jesus Christ!
+Ada,Female,Leon! Get out of there!
+Leon,Male,Holy shit!!!
+Leon,Male,Chew on that… you overgrown son of a bitch.
+Ada,Female,"Leon, up here!"
+Leon,Male,What the hell was—?
+Ada,Female,Just get up here! Can’t say I didn’t warn you…
+Leon,Male,"You said the virus turned people into monsters, not reptiles."
+Ada,Female,Fair point. I’m just impressed you made it in one piece.
+Leon,Male,So let me get this straight: Umbrella sells monsters like that to who? Our military? Somebody else’s?
+Ada,Female,"They don’t sell the monsters, they sell the viruses that make them. And Annette is who makes the viruses. Scary as that alligator was… Annette is far more dangerous."
+Annette,Female,Definitely William’s handiwork…
+Leon,Male,Identify yourself!
+Ada,Female,Annette Birkin.
+Leon,Male,She’s who we’re looking for?
+Annette,Female,Not much time… Need to dispose of it…
+Ada,Female,We’re here for the G-Virus!
+Annette,Female,That’s not going to happen.
+Ada,Female,"I’m warning you, doctor!"
+Annette,Female,Oh yeah?
+Leon,Male,Hey!
+Ada,Female,STOP!
+Leon,Male,Ada!
+Annette,Female,You’ll never get the G-Virus!
+Ada,Female,Didn’t expect that from a scientist. Leon…
+Leon,Male,Forget about me… Just go… Stop her before she gets away…
+Ada,Female,"I’m right outside the facility, in pursuit of Annette."
+Ada,Female,"If it’s not on her, it must be in the NEST."
+Ada,Female,"Once it’s in hand, I’ll call for extraction."
+Ada,Female,"You can run, Annette, but you can’t hide."
+Ada,Female,It’s secret weapon time. Candy from a baby.
+Ada,Female,"Got you now. Always been good at running, Annette. I’ll give you that."
+Ada,Female,"Persistent bastard, aren’t you?"
+Ada,Female,Bravo. Gonna burn me alive now? You’ll never get your filthy hands on G. I’m not the only one after it. You realize that.
+Annette,Female,Then you won’t die alone.
+Ada,Female,That bitch knows what she’s doing…
+Ada,Female,Not gonna happen…
+Ada,Female,Enough with this cat and mouse game.
+Annette,Female,The game is over. You lost.
+Ada,Female,"Tell me: Is your husband still alive? Or did you kill him, so you could take credit for G?"
+Annette,Female,Interesting theory…
+Ada,Female,"If you don’t cooperate, I’ll get a sample from the NEST."
+Annette,Female,Over my dead body.
+Ada,Female,"Oh, shit…"
+Ada,Female,Where’s Leon when I need him…? Dammit.
+Leon,Male,Ada!? Where are you!?
+Leon,Male,That’s a pleasant smell… Argh… Shit!
+Leon,Male,What the hell…!?
+Leon,Male,A cable car… interesting. Where’d she go?
+Leon,Male,I don’t like the sound of that… Come on…
+Leon,Male,"I’m coming, Ada."
+Kirkpatrick,Male,Please… Oh…please…stop… St—Stop! Don’t… don’t… no… no… no!
+Umbrella Soldier 2,,"OVER HERE, YOU FREAK!"
+Kirkpatrick,Male,Don’t hurt him… Don’t hurt him…!
+Leon,Male,The virus… I’ll bet those rats spread it.
+Leon,Male,What the hell was that!? Oh my god… this is getting worse!
+Leon,Male,"OK… almost there, Ada. Dammit! Need the power on first…"
+Leon,Male,Jesus Christ! It‘s still alive!? Now I got you! Let’s do this!
+Leon,Male,Let’s hope that’s the last of him.
+Leon,Male,"Come on. ADA!? ADA, WHERE ARE YOU!?"
+Ada,Female,OVER HERE!
+Leon,Male,Ada… I was getting worried there for a sec…
+Ada,Female,I can’t get it out.
+Leon,Male,"I don’t know if I should, uh…"
+Ada,Female,Just do it. I can’t walk like this.
+Leon,Male,OK… It’s gonna hurt.
+Leon,Male,Hold on…
+Ada,Female,I can do it myself.
+Leon,Male,"Just…relax, OK? So… what do we do now?"
+Ada,Female,Get yourself out of here. While you still can.
+Leon,Male,I’m not just going to leave you. Not like this.
+Ada,Female,You don’t understand. The situation’s worse than I thought.
+Leon,Male,You’re not getting rid of me that easy… You protected me. Now it’s my turn.
+Ada,Female,Didn’t realize we were keeping score…
+Leon,Male,Grab my shoulder.
+Ada,Female,"Don’t push it, rookie."
+Leon,Male,Just trying to help. Watch your step.
+Ada,Female,We have to get to the NEST.
+Leon,Male,NEST?
+Ada,Female,Umbrella’s lab. Right beneath us. That’s where the virus samples are. You up for this?
+Leon,Male,Think I can fit it in my schedule.
+Ada,Female,"Come on, we got work to do."
+Leon,Male,"Yes, ma’am."
+Ada,Female,The cable car’ll take us down to NEST. This wristband’s our ticket to ride.
+Leon,Male,Nice. Where’d you get that?
+Ada,Female,"Borrowed it. Anyway, we’re almost there. Urgh… this damn leg…"
+Leon,Male,Let me carry you—
+Ada,Female,That’d only make me feel worse. How‘s the shoulder?
+Leon,Male,Worse than it looks.
+Ada,Female,What a pair. Both got one foot in the grave.
+Ada,Female,"That should take us where we need to go. This may be a one-way ride. So be prepared, Leon."
+System,,This tram is bound for NEST. Do not exit until the final destination.
+Leon,Male,You know what I was thinking? I can’t wait for the FBI to raid Umbrella headquarters and take those bastards to justice.
+Ada,Female,"I agree… but to be clear, you’re not working in official capacity. This is a federal case. Once we get the G-Virus, I’m back on my own. Hey, Leon… Trust me?"
+Leon,Male,You trust me?
+Ada,Female,Honestly… If I didn’t you’d probably be dead.
+Leon,Male,Right…
+Ada,Female,"Look, I thought I might need your help… and I was right. If you can secure the G-Virus, I can make sure what happened in Raccoon City never happens again."
+Leon,Male,Ada… You said it yourself—it’s a federal case.
+Ada,Female,"Leon, look at me. I’m a liability now. If I’m gonna finish this case, you’re the last hope I’ve got."
+Leon,Male,"I’m not just gonna leave you here. What if you’re attacked, what if you need help—"
+Ada,Female,I’ll be fine. Don’t worry about me. I gotta see this through… and I want to see you again. I got plenty to live for. Trust me.
+System,,Now arriving at NEST.
+Ada,Female,Go. Please. We don’t have much time. You’re gonna need this.
+Leon,Male,OK.
+Ada,Female,Leon… I’m counting on you.
+Leon,Male,I know.
+Leon,Male,OK… I wonder where the G-Virus is?
+System,,Authorized staff only beyond this point. Guests must refrain from entering.
+System,,Our menu is designed for your nutritional needs using our latest biological research. Please enjoy our tasty selection of healthy foods.
+System,,"Dr. Li, your presence is urgently requested by Chief Cartwright in the East Area."
+Leon,Male,G-Virus is in the West Area… Got it.
+System,,Senior Staff clearance required for bridge access.
+Leon,Male,Jesus… What happened here?
+System,,Senior Staff clearance required for computer access. Dispensing solution now.
+System,,"Welcome back, Dr. Li. You have five new messages."
+Leon,Male,Who left the freezer open!?
+System,,Manual mode engaged. Adjust amount of solution to match cartridge capacity.
+System,,Cooling sequence progress…
+System,,Cooling complete. Dispensing solution now.
+Leon,Male,That did the trick.
+System,,Warning: You have dispersed a dangerous solution without authorisation. Your actions have been logged and you may be subject to disciplinary measures.
+Leon,Male,Shit. Him again!?
+Leon,Male,Hopefully the G sample’s up here…
+Umbrella Soldier 1,,Got eyes on the G-Virus.
+Hunk,Male,"We’re going in. Doctor Birkin, you’ll come along with us quietly."
+William,Male,You think I didn’t know you were coming? This is my life’s work! I’m not handing it over anything!
+Hunk,Male,"We have our orders, Doctor Birkin. I’ll ask you one more time…"
+Hunk,Male,Stop! Hold your fire! What the fuck were you thinking!? Our orders were to bring him in alive!
+Hunk,Male,"We’re in, sir, but we had a snafu. Target resisted, we had to take him out. That’s correct, sir. Roger that. Just the samples then."
+Hunk,Male,Let’s move!
+Leon,Male,So those were G samples?
+Leon,Male,"Huh. That was easy… Alright, now back to Ada."
+System,,Attention: Unauthorized removal of a [Level 4] virus detected. Facility lockdown initiated. Self-destruct sequence will begin when lockdown is complete.
+Leon,Male,You again.
+Annette,Female,Move. He’s mine. This has to end.
+Leon,Male,What the hell’s going on!?
+Annette,Female,"Sorry, William. You left me no choice."
+Leon,Male,"You called this thing “William."" Why?"
+Annette,Female,It shouldn’t have been like this… It’s Umbrella’s fault—this whole mess.
+Leon,Male,"You’re Umbrella, too. You’re telling me you weren’t involved in this?"
+Annette,Female,Yes… But we never meant for this to happen.
+Leon,Male,Then tell me everything—right from the start.
+William,Male,You don’t get away that easily…
+Annette,Female,"Good god, William. What have you done?"
+Leon,Male,So you made this monster?
+Annette,Female,"We made the G virus, but we never intended this to—"
+Leon,Male,You can spin it any way you want. You’re still responsible.
+Leon,Male,The hell!? Shit!
+Leon,Male,What’re you doing!?
+Annette,Female,We can’t let him get away!
+Leon,Male,Alright… We end this here!
+System,,Class A breach detected. Lab quarantined until target is neutralized.
+System,,Target has been neutralized. Ending quarantine.
+Leon,Male,"Jesus, that looks bad."
+Annette,Female,"Feels worse, believe me."
+Leon,Male,"Look, about what you said… I don’t know how much I believe it, but I’m willing to—"
+Annette,Female,Just tell me you’ll destroy that G sample.
+Leon,Male,No. It’s evidence. It’s going to the FBI.
+Annette,Female,You trust that bitch?
+Leon,Male,What’s that supposed to mean?
+Annette,Female,"She’s not FBI, she’s a mercenary. She’s gonna sell it— The G-Virus is gonna go to the highest bidder."
+Leon,Male,That’s bullshit.
+Annette,Female,I hope you’re right… But if the G-Virus… gets into the wrong hands…
+System,,Attention: Self-destruct sequence initiated. Use the Central Elevator to evacuate immediately to the bottom-level train platform.
+Leon,Male,I was just thinking about you.
+Ada,Female,That makes two of us. I was getting worried.
+Leon,Male,"Y’know we make a good team, but I gotta ask you something."
+Ada,Female,"The way’s clear. Please, tell me you got it."
+Leon,Male,"Oh, I got it."
+Ada,Female,Let me verify the G sample and we’ll get the hell out of here.
+Leon,Male,Before we do that… I ran into Annette. She claims you’re not FBI.
+Ada,Female,"Oh, Leon… Why couldn’t you just hand over the sample?"
+Leon,Male,"Because I realized, as much as I wanted to trust you… I didn’t."
+Ada,Female,I really hoped it wouldn’t end up like this.
+Leon,Male,So that’s all this was… I was just some pawn to you?
+Ada,Female,"Look, I am just doing my job."
+Leon,Male,"And I’m doing mine, so drop that damn gun! I’m taking you in."
+Ada,Female,"Hand over the sample, Leon. I don’t wanna hurt you."
+Leon,Male,"Then you shoot me, but I don’t think you can."
+Leon,Male,Ada!
+Annette,Female,No one gets that sample now.
+Ada,Female,Leon…
+Leon,Male,Hold on… I think I can… Agh! Shit!
+Ada,Female,Forget it.
+Leon,Male,Shut up—I’ve got you!
+Ada,Female,It’s not worth it.
+Leon,Male,Don’t do this…
+Ada,Female,"Take care of yourself, Leon."
+Leon,Male,No!
+System,,Nine minutes until detonation.
+Leon,Male,Who’s that? Claire!
+Claire,Female,Leon? You’re down here too!?
+Leon,Male,Yeah. But the whole place is coming down. Listen to me. You need to get out. Fast!
+Claire,Female,Yeah. There’s a way out. We can make it! Where are you now?
+Leon,Male,Claire!? You still there?
+Claire,Female,"Leon? Hey Leon, you’re breaking up…"
+Leon,Male,Forget about me! Just get out of here! Dammit!
+Leon,Male,Uh… Is this a fucking joke?
+System,,Eight minutes until detonation.
+Leon,Male,Gotta keep going…!
+Leon,Male,Whoa! What the hell…!?
+Leon,Male,"Oh, shit… Alright, come on!"
+System,,Seven minutes until detonation.
+Leon,Male,What is it with that thing!? Uh-oh… Not good! Whoa!
+Ada,Female,We’ll call it even.
+Leon,Male,Where did this thing come from!?
+System,,You have arrived at the bottom level.
+Leon,Male,Shit! Gotta get outta here!
+Leon,Male,I can’t believe I actually miss her…
+Claire,Female,Leon!?
+Leon,Male,Hey… We made it…
+Claire,Female,Just like I said we would.
+Caller,,"Look man, I’m serious, OK? I saw this with my own eyes."
+Anchor,,"Oh, I believe you, buddy, I believe you. Just tell us a story, tell us a story."
+Caller,,"OK, well, it was last Friday night - I was walking home from the bar… This woman started coming towards me… She was a staggering, you know… So I, I figured she was drunk."
+Anchor,,"Whoa, whoa, whoa, OK. Tell us, be honest now, how many drinks did you have?"
+Caller,,"No man, I, I barely had a buzz on."
+Anchor,,"Oh, c’mon!"
+Caller,,"No, just listen, alright? She got closer, I got a good look at her. You had to see her eyes, her nose… Her whole face… looks like it was rotting!"
+Anchor,,Ew…
+Caller,,"She looks like a corpse - like a walking corpse, man!"
+Trucker,,Heh. Sounds like my wife.
+Caller,,I’ve never seen anything like it… I haven’t been able to sleep since of that night.
+Anchor,,"Alright, calm down, buddy, calm down. Just… Hey. You gotta stay strong, OK? Don’t give in to fear out of there, right?"
+Caller,,"Yeah, well you go to that right. If you freeze up around these things… they’ll sink their teeth into you. I saw it attack somebody -"
+Trucker,,Come on… Just gettin’ good. I need some sleep.
+Trucker,,"Oh, shit!"
+Trucker,,No…! No…no…no… What do I do…? What am I gonna do…!?
+Claire,Female,"Yeah, I’m almost there. You know me, I’ll be fine. Sounds good. I’ll be back as soon as I find Chris. I will, but I gotta go."
+Claire,Female,Why does everyone think I’m going to get in trouble?
+Claire,Female,What the…?
+Claire,Female,Hello…?
+Claire,Female,Hello? Anybody here?
+Claire,Female,Hello…?
+Claire,Female,Are you OK!?
+Claire,Female,Wait here. I’ll check it out.
+Claire,Female,Hey! What the hell!?
+Policeman,,I said hold still!
+Claire,Female,"Excuse me, is everything OK?"
+Policeman,,"Stay back ma’am, I got this."
+Claire,Female,Oh my god! Get off him! I said GET OFF HIM! Don’t come any closer!
+Claire,Female,It’s like… a nightmare.
+Claire,Female,"Whoa, don’t shoot!"
+Leon,Male,Get down!
+Claire,Female,We gotta get out of here!
+Leon,Male,You alright?
+Claire,Female,Yeah… I think so… Thanks.
+Leon,Male,"You can thank me later, when we’re safe."
+Claire,Female,Holy shit…
+Leon,Male,Come on!
+Leon,Male,Get in! Hold on!
+Claire,Female,What the hell is going on?
+Leon,Male,"I don’t know… Hopefully, they’ll have some answers at the police station."
+Claire,Female,"Wait, you’re a cop?"
+Leon,Male,"Yeah, Leon Kennedy. You are…?"
+Claire,Female,Claire—Claire Redfield.
+Leon,Male,Live around here?
+Claire,Female,"No, looking for my brother. He’s a cop, too."
+Leon,Male,"Well, it’s a good thing we found each other. I don’t know what to expect anymore…"
+Loudspeaker,,"Attention all citizens Due to the citywide outbreak, you are advised to take shelter at the Raccoon City police station. Free food and medical supplies will be provided to everyone in need."
+Claire,Female,"Oh my god, this is so unreal…"
+Leon,Male,The police station’s not much farther. They’ll know something.
+Claire,Female,"Yeah, but… what if we’re the only ones? What if there’s no survivors—"
+Leon,Male,No. There’s survivors. It’s a big city… there has to be.
+Leon,Male,Looks like we’re walking from here.
+Claire,Female,More like running.
+Leon,Male,"Yeah, good call."
+Claire,Female,Jesus Christ!
+Claire,Female,Leon! We gotta back up!
+Claire,Female,What the—!?
+Leon,Male,"Holy shit! Claire, get out! Get out NOW!"
+Claire,Female,I can’t!
+Leon,Male,Hold on!
+Claire,Female,"Oh, shit…!"
+Leon,Male,"CLAIRE! CLAIRE, YOU OK!?"
+Claire,Female,YEAH! I’M ALRIGHT! HOW ABOUT YOU!
+Leon,Male,I CAN’T STAY HERE! IT’S NOT SAFE!
+Claire,Female,"Oh, shit… GO ON AHEAD! I’LL MEET YOU AT THE STATION!"
+Claire,Female,Can’t stop… Gotta keep moving. It’s like the end of the world..! The police station…! Almost there…
+Claire,Female,Anybody here!?
+Claire,Female,"Come on, Chris, where are you? Shit… They’re inside too…"
+Elliot,,David! Marvin! You there!? I found a way out! It’s in here! Send reinforcements! East Hallway!
+Claire,Female,I should help this guy.
+Claire,Female,Great… Where are you…?
+Claire,Female,"Focus, Claire… Focus."
+Claire,Female,"Ugh, oh my god…"
+Elliot,,OPEN UP! HURRY! OPEN UP! OPEN THIS GODDAMN DOOR!
+Claire,Female,I’m here!
+Elliot,,"OPEN THE DOOR! HURRY UP! HURRY UP, OPEN IT!"
+Claire,Female,"Here, give me your hand!"
+Elliot,,"Here, here, help me!"
+Claire,Female,"Hold on, give me your—give me your other hand."
+Claire,Female,It’s OK! I got you!
+Claire,Female,Oh… Oh my god…
+Elliot,,Tell… Marvin…
+Claire,Female,"I’m so sorry. Oh, god… Huh?"
+Claire,Female,Get off! Get off! Help! Help!
+Claire,Female,Watch out!
+Marvin,Male,I’m on it.
+Marvin,Male,You alright?
+Claire,Female,Yeah.
+Marvin,Male,You’re safe… for now.
+Marvin,Male,Marvin Branagh.
+Claire,Female,Thanks.
+Marvin,Male,Obviously someone taught you well.
+Claire,Female,"Yeah, I know how to take care of myself."
+Marvin,Male,Come on.
+Claire,Female,So nobody knows what caused this?
+Marvin,Male,There’s a lot of theories… but all I know for sure is that this place is crawling with zombies.
+Claire,Female,Yeah. You’re telling me…
+Marvin,Male,"Hey, hey… keep that on… Just in case."
+Claire,Female,"I’m not gonna be around long. Once I find Chris, we’re outta here."
+Marvin,Male,You really Chris’s sister?
+Claire,Female,Yeah. Why? Did you find something?
+Marvin,Male,"He’s on vacation. Europe, I think… Left weeks ago."
+Claire,Female,Vacation? That’s… that’s great news.
+Marvin,Male,"Well, I’ve got more for you… Looks like there might be a way out through this secret passageway…"
+Claire,Female,"Good. Hey… Hey, we should probably get you to a hospital."
+Marvin,Male,"Oh, no… Forget about me. I can take care of myself."
+Claire,Female,"No, don’t be ridiculous, you’re gonna need some help"
+Marvin,Male,"Listen, Claire: Save yourself. So you can see your brother again. Now… you’ll probably need this."
+Claire,Female,"No, I’m not taking that. You’re gonna need—"
+Marvin,Male,"Shhh. And be careful. If you see one of those things—no matter who they were—you can’t hesitate. Take ’em out if you can, or you run."
+Marvin,Male,So Elliot was right…
+Claire,Female,Yeah. We’re not out of here yet.
+Police Radio,,This is 73-Bird—for rescue. —heading east—River. Touchdown at R.P.D.—minutes.
+Claire,Female,Wha—? Oh god! Poor guy…
+Claire,Female,What!? Who’s there!
+Claire,Female,What was that!?
+Marvin,Male,"Claire, it’s Marvin. How fast can you get back here?"
+Claire,Female,"Why, what’s up?"
+Marvin,Male,I’ve got something to show you. It’s important.
+Claire,Female,Alright. I’m on my way.
+Marvin,Male,There you are… Come here.
+Claire,Female,What is it?
+Marvin,Male,Take a look.
+Claire,Female,"Oh my god, he made it?"
+Marvin,Male,You know him?
+Claire,Female,"Yeah. It’s Leon… uh, Kennedy, I think?"
+Marvin,Male,"Ah, the rookie. Thought he looked familiar. You can make it to that courtyard through the second floor, east side."
+Claire,Female,"OK. Thanks Marvin, I’m on it."
+Claire,Female,Who turns a museum into a police station..?
+Leon,Male,HEY! CLAIRE!?
+Claire,Female,LEON!? I’LL BE RIGHT THERE!
+Leon,Male,Come on…
+Claire,Female,Leon! We really gotta stop meeting like this.
+Leon,Male,Are you alright? Police chopper… It just came out of nowhere…
+Claire,Female,"Yeah, I’m fine."
+Leon,Male,I take it you don’t have the key…
+Claire,Female,"No, I don’t… It’s good to see your face, though. How are you holding up?"
+Leon,Male,I am… hanging in there.
+Claire,Female,"Helluva night, huh?"
+Leon,Male,Yeah. You find your brother?
+Claire,Female,"I did actually, he’s—"
+Claire,Female,"Just when you think it can’t get any worse… Leon, you should get going."
+Leon,Male,Don’t worry about me. Just… get yourself to safety.
+Claire,Female,"No, Leon, seriously, they’re getting through the fence! Please, just go!"
+Claire,Female,We’re gonna make it. Both of us.
+Claire,Female,"Hey, Marvin. This is bad. I’ve got zombies everywhere! Marvin…? Marvin, are you there!? Marvin!? Oh, god, you gotta be kidding me…!"
+Claire,Female,What the hell is that…!?
+Claire,Female,"Looks like it leads underground… Good. We can get out of this hellhole. Hey Marvin! Guess what! Think I found a way out! Marvin, come on. Let’s get you out of here. Let’s go. Are you OK?"
+Marvin,Male,"No, I… Just go. Save yourself."
+Claire,Female,"C’mon, it’s bad. We’ve got to get you to a hospital now."
+Marvin,Male,"PLEASE, Claire… We both know how this is going to end. Get out of the city."
+Claire,Female,I can’t just leave you here.
+Marvin,Male,"Claire, please… Go… Do this for me."
+Claire,Female,"Hey, Marvin… Thank you."
+Claire,Female,Hello! HELLO!?
+Claire,Female,Won’t budge.
+Claire,Female,"Hello..? Hey… It’s OK. I won’t hurt you, I promise. Do you need help? Here… you can take my hand."
+Sherry,Female,You… need… help…
+Claire,Female,"I’m sorry, I can’t understand you."
+Sherry,Female,You need help.
+Claire,Female,Why…?
+Sherry,Female,He’s right behind you.
+Claire,Female,What?
+Claire,Female,Oh my god…
+Claire,Female,You gotta be kidding me…
+Claire,Female,Words ain’t gonna cut it with this freak… This thing’s gotta go down.
+Claire,Female,"Oh, crap… Oh… Oh god… Hey! Little girl…!? It’s safe now… It’s over."
+Sherry,Female,Are you sure?
+Claire,Female,"Yeah, I promise. Everything’s fine. I just need you to lower that ladder for me."
+Sherry,Female,Will you help me find my mom?
+Claire,Female,…Your mom is down here?
+Sherry,Female,I think so. I hope so.
+Claire,Female,Yeah… of course. I’ll help you.
+Sherry,Female,This way.
+Sherry,Female,It won’t move…
+Sherry,Female,You got it!
+Claire,Female,So… what’s your mom like?
+Sherry,Female,She works at Umbrella. She’s making an important new medicine.
+Claire,Female,Umbrella? That big pharmaceutical company?
+Sherry,Female,My mom’s always at work. I don’t get to see her much.
+Claire,Female,"Well, hopefully, you’ll get to see her again soon. So… Where’s your dad?"
+Sherry,Female,"He, um… worked with my mom but… He’s gone."
+Claire,Female,Wow… Both of my parents are gone—it’s just me and my brother.
+Sherry,Female,Oh… I’m sorry…
+Claire,Female,"Don’t be. It means we’ve got something in common and… That’s a good thing, right?"
+Claire,Female,Hmm… Come on…
+Sherry,Female,Over there!
+Sherry,Female,It’s closed…
+Claire,Female,"Dammit. We need a key card. Come on… Here, come help."
+Claire,Female,And you’re sure this is the way?
+Sherry,Female,This is how my mom took me last time.
+Irons,Male,"Sherry!? I’ve been looking everywhere for you, Sherry… Brave little girl to leave your house in the middle of this mess…"
+Irons,Male,"On the ground, hands behind your head."
+Claire,Female,You can’t be serious…
+Irons,Male,"On the ground. Now. Sherry, tie her hands."
+Sherry,Female,Why’re you doing this?
+Irons,Male,Shut up. Tie her.
+Sherry,Female,"OK, then. You tie her up now, or she dies."
+Claire,Female,What’s this all about?
+Irons,Male,"Child endangerment, for starters."
+Irons,Male,"Sherry, come here."
+Claire,Female,What are you gonna do to her?
+Irons,Male,None of your fucking business.
+Claire,Female,"If you hurt her, I swear to god, my brother is S.T.A.R.S. and I will fucking—"
+Irons,Male,"Sherry, get over here!"
+Irons,Male,What’s your name? What’s your fucking name!?
+Claire,Female,Claire!
+Irons,Male,"Sherry, you come with me now or say goodbye to Claire!"
+Sherry,Female,"OK, OK! I’ll go..! You better be taking me to my mom."
+Irons,Male,Absolutely.
+Claire,Female,Don’t listen to him! He’s full of shit!
+Sherry,Female,Stop hurting her! Please!
+Irons,Male,Don’t tell me how to do my job.
+Sherry,Female,Stop! Let me go! Let me go!
+Irons,Male,"Obviously, nobody taught you manners! We’ll fix that. Oh yes, we will."
+Sherry,Female,Let me go! Let me go!
+Claire,Female,"I’LL GET YOU, YOU FUCKER!"
+Claire,Female,"Stay safe, Sherry… OK… Key card first, then that asshole gets what’s coming to him."
+Claire,Female,Must be where that guy came from…
+Claire,Female,That… bastard is the police chief!?
+Claire,Female,Thank god… the key card.
+Claire,Female,Shit!
+Claire,Female,Jesus… Stay back!
+Claire,Female,This does not sound like Chris…
+Claire,Female,That worked.
+Claire,Female,Hello…?
+Irons,Male,"Good to see you again, Claire. We’ve got unfinished business."
+Claire,Female,Where is that?
+Irons,Male,In the neighborhood. You’ll find it.
+Claire,Female,Is Sherry alright?
+Irons,Male,…For now.
+Claire,Female,"I swear, you bastard, if you hurt her—"
+Irons,Male,"Stupid kid. If you just hadn’t dropped that fucking thing, I could let you go…"
+Irons,Male,"Don’t worry, Sherry. It’ll be all over soon."
+Sherry,Female,There has to be a way out of here…
+Sherry,Female,What… is this?
+Sherry,Female,"That must be the door out of here! Darnit, I need the key!"
+Sherry,Female,Oh no… It’s him!
+Irons,Male,"Where you going, Sherry? I told you to stay put."
+Irons,Male,You need to learn to listen.
+Sherry,Female,"Leave me alone! Just, please…"
+Irons,Male,Time to teach some manners.
+Irons,Male,You little bitch…! You are gonna pay for this…! You little shit!
+Irons,Male,You are gonna be so fucking sorry!
+Sherry,Female,Go away! Help! Somebody please!
+Irons,Male,You stupid bitch… that’s a dead end!
+Sherry,Female,Gotta hide… gotta hide… gotta hide!
+Irons,Male,"It’s all over now…! Door’s locked! Where are you!? Show yourself! I know you’re in here! The longer it takes me to find you, the worse it’s gonna be!"
+Sherry,Female,Oh god… oh god…
+Irons,Male,Little bitch’s gotta be here somewhere…! Urrrgh… Goddammit! Sonofabitch…!
+Sherry,Female,No more… no more… please…!
+Irons,Male,This is your last fucking chance! Show yourself—NOW! Ahh… FUCK! IT BURNS!
+Irons,Male,Where the fuck is my key!? I see you!
+Sherry,Female,Hurry… hurry… hurry…!
+Sherry,Female,Wha-won’t open!?
+Irons,Male,"Nice try, Sherry!"
+Irons,Male,"I’m coming in Sherry! Get over here, you little bitch!"
+Irons,Male,The game… is… over!
+Sherry,Female,No…!
+Irons,Male,Now you’re in trouble!
+Sherry,Female,Let me go!
+Sherry,Female,No… Stop!
+Irons,Male,"Good to see you again, Claire. We’ve got unfinished business."
+Claire,Female,What’re you talking about?
+Irons,Male,Don’t waste my fucking time! Bring me the pendant or Sherry dies.
+Claire,Female,The pendant? What do you need it for?
+Irons,Male,Do you want the girl to die?
+Claire,Female,Fine. Where are you?
+Irons,Male,The orphanage.
+Claire,Female,The orphanage…? Where’s that?
+Irons,Male,In the neighborhood. You’ll find it.
+Claire,Female,Is Sherry alright?
+Irons,Male,…For now.
+Claire,Female,"I swear, you bastard, if you hurt her—"
+Claire,Female,"Are you serious!? Dammit! Just you wait, asshole!"
+Claire,Female,You again!?
+Claire,Female,Oh shit…! Looks like it’s the other way…
+Claire,Female,Looks like the only way forward.
+Claire,Female,That’s gotta be the Orphanage!
+Claire,Female,"Hang on, Sherry."
+Claire,Female,"Hello!? I have the pendant! Sherry! Sherry, are you here!?"
+Irons,Male,Your fault…!
+Claire,Female,What?
+Irons,Male,Took too long!
+Claire,Female,What happened…? Oh god. Get off me!
+Irons,Male,"Damn you, William!"
+Claire,Female,Oh my god! Jesus Christ!
+Claire,Female,Sherry!? Where are you!?
+Sherry,Female,Claire!
+Claire,Female,Sherry! I’ll be right there!
+Claire,Female,"Go, go, go!!!"
+Sherry,Female,Claire! It’s behind you!
+Claire,Female,Don’t stop!
+Sherry,Female,Hurry!
+Claire,Female,Keep going!
+Claire,Female,"Sherry, come on!"
+Sherry,Female,Daddy…?
+Claire,Female,What’d you say? Oh god…
+Sherry,Female,"DADDY, NO!"
+Sherry,Female,"Claire? Are you alright? Can you hear me? Claire..? Claire, you have to get up. He’s going to get us. Wake up! Wake up! Open your eyes… Hold still…"
+Annette,Female,Wake up! Wake up! Open your eyes… Hold still… Not infected…
+Claire,Female,…Sherry? Where’s Sherry!?
+Annette,Female,Sherry… Sherry’s fine.
+Claire,Female,Do you know Sherry?
+Annette,Female,…was an impressive display of strength.
+Claire,Female,What happened to her?
+Annette,Female,We have to assess the situation.
+Claire,Female,Who are you? …I’m Claire.
+Annette,Female,I didn’t foresee this…
+Claire,Female,"Excuse me, where is she? …Hello?"
+Annette,Female,"What…? Oh, Annette. Tell me, what happened to William?"
+Claire,Female,I don’t know. Who’s—who’s that?
+Annette,Female,The creature responsible for this.
+Claire,Female,What…? Can you help me find Sherry?
+Annette,Female,Seems to be evolving much faster than expected…
+Claire,Female,Where are you going?
+Annette,Female,"Look, I don’t have time to play twenty questions. Everything is under control."
+Claire,Female,I need to find Sherry—
+Annette,Female,My daughter is not your concern.
+Claire,Female,Where did Sherry go…? Sherry’s… her daughter?
+Claire,Female,Sherry..!? Can you hear me!?
+Claire,Female,Now I’m gonna smell like shit—literally.
+Claire,Female,Cable car… Here…?
+Claire,Female,What is this…?
+Annette,Female,"Sherry… I told you, I cannot leave here until my work is done."
+Sherry,Female,That’s what you always say.
+Claire,Female,Sherry…?
+Annette,Female,Why didn’t you stay in the house? It was safe there.
+Claire,Female,Hey! Sherry!
+Sherry,Female,I was scared. Those things were everywhere and—
+Annette,Female,You should’ve called the police! That’s what we taught you.
+Sherry,Female,"I did, but nobody came. And you didn’t answer your phone so—"
+Annette,Female,"Sherry, I don’t have time for this!"
+Claire,Female,"Oh, no… Sherry! Sherry! I’m coming! Hold on, Sherry…I’ll be right there."
+Computer,,ID wristband required for cable car entry.
+Claire,Female,What the fuck!?
+Claire,Female,"Oh god, no… Marvin…"
+Kirkpatrick,Male,Please… Oh… please… stop… St-Stop!
+Kirkpatrick,Male,Don’t… don’t… no… no… no!
+Umbrella Soldier 2,,"OVER HERE, YOU FREAK!"
+Kirkpatrick,Male,Don’t hurt him… Don’t hurt him…!
+Claire,Female,Glad I watched that…
+Claire,Female,OK… this place is… creepy.
+Claire,Female,"Oh, Jesus… They’re everywhere."
+Claire,Female,This is not my forte.
+Claire,Female,"Alright, Sherry…on my way."
+Claire,Female,Power must be out…
+Claire,Female,"Oh, shit! Should’ve known you wouldn’t die!"
+Claire,Female,The crane might work! Have got a surprise for you…!
+Claire,Female,I’m so sorry Sherry… This is taking forever…
+Annette,Female,"Sherry? Mommy’s here… Sherry! Sherry, can you hear me!?"
+Claire,Female,"Oh, no… Sherry?"
+Annette,Female,Claire…?
+Claire,Female,Sherry… Are you alright?
+Annette,Female,What are you doing!?
+Claire,Female,I’m here to help.
+Annette,Female,Sherry’s been implanted… She can’t be saved.
+Claire,Female,Are you fucking kidding me!? You’re her mother. Get in here!
+Annette,Female,"You don’t understand. William is still out there, and if I don’t stop him—"
+Claire,Female,This conversation is over!
+Annette,Female,Wait! Wait… I… I can treat her… in my lab. It’s not far away.
+Sherry,Female,Mommy…?
+Annette,Female,"There’s not enough time… Millions of lives are at stake. Sherry… Mommy loves you, sweetie… Goodbye."
+Claire,Female,"Are you fucking kidding me!? Sherry, don’t worry. I will get you whatever you need, OK?"
+Sherry,Female,Wh-Why are you doing this?
+Claire,Female,Because I care.
+Sherry,Female,"Thank you, Claire."
+Claire,Female,"Annette said her lab’s not far. Wait, that cable car… Hold on, Sherry. You’re gonna be fine. Almost there, Sherry. We’re almost there… Oh, good. The cable car."
+Claire,Female,"Oh… Um… Here… OK. Here ya go… Just hold on, Sherry, OK? You’re gonna be just fine."
+Claire,Female,OK… better check everything. There’s no turning back…
+Computer,,This tram is bound for NEST. Do not exit until the final destination.
+Claire,Female,"Hey, are you OK?"
+Sherry,Female,Your jacket’s so warm.
+Claire,Female,My brother gave it to me. You know it’s supposed to be lucky.
+Sherry,Female,I don’t know what I’d do without you.
+Claire,Female,Are you kidding me? You were doing just fine without me until I came along and got you into all sorts of trouble. I have something of yours.
+Sherry,Female,I don’t want it.
+Claire,Female,Really? Why not? It’s so pretty.
+Sherry,Female,"It-It’s from my mom… For my birthday, last year. All I really wanted was for her to be home more."
+Claire,Female,I know it seems like your mom doesn’t care but—
+Claire,Female,"Hey, Sherry. Come here. Hey… hang in there, OK?"
+Computer,,Now arriving at NEST.
+Claire,Female,It’s OK. I’ve got you. Come on.
+Claire,Female,"I’m getting you treatment. Just hold on, Sherry. It’s OK."
+Computer,,"For your safety, stand clear until the doors are fully open. Welcome to NEST. Enjoy your visit."
+Claire,Female,"OK, umm… Here you go."
+Claire,Female,"Alright, now what…?"
+Claire,Female,"Huh… There’s gotta be something here. …""Antiviral agent""? That’s it! That’s gotta be it! Hey… hey Sherry… I gotta go. You stay right here, though. OK? I’ll be back soon, I promise."
+Computer,,Our menu is designed for your nutritional needs using our latest biological research. Please enjoy our tasty selection of healthy foods.
+Computer,,"Dr. Li, your presence is urgently requested by Chief Cartwright in the East Area."
+Claire,Female,So… the antiviral agent’s in the West Area.
+Computer,,Senior Staff clearance required for bridge access.
+Claire,Female,"Oh, god. That’s… terrible."
+Computer,,Dispensing solution now.
+Computer,,Manual mode engaged. Adjust amount of solution to match cartridge capacity.
+Computer,,"Welcome back, Dr. Li."
+Claire,Female,Damn… Should've packed my parka.
+Computer,,"Cooling sequence in progress… Cooling, complete."
+Computer,,Dispensing solution now.
+Claire,Female,So much for the weed infestation
+Computer,,Warning: You have dispersed a dangerous solution without authorization. Your actions have been logged and you may be subject to disciplinary measures.
+Claire,Female,I gotta find that antiviral agent soon…
+Umbrella Soldier 1,,Got eyes on the G-Virus.
+Hunk,Male,We’re going in.
+Hunk,Male,"Doctor Birkin, you’ll come along with us quietly."
+William,Male,You think I didn’t know you were coming? This is my life’s work! I’m not handing over anything!
+Hunk,Male,"We have our orders, Doctor Birkin. I’ll ask you one more time…"
+Hunk,Male,"Stop! Hold your fire! What the fuck were you thinking!? Our orders were to bring him in alive! We’re in sir, but we had a snafu. Target resisted, we had to take him out. That’s correct, sir. Roger that. Just the samples then. Let’s move!"
+Claire,Female,Oh… look at that… Alright…
+Claire,Female,Hell yeah! Got it! Thank god… the antiviral agent… Gotta get back to Sherry…
+Claire,Female,Your ass again!?
+Annette,Female,William! This ends NOW!
+Claire,Female,What the hell is this thing!?
+Annette,Female,That was my husband.
+William,Male,G is my creation!
+Annette,Female,William!
+Annette,Female,I should’ve killed him while I had the chance… I don’t know why… I just… couldn’t do it.
+Claire,Female,He was your husband.
+Annette,Female,Honestly… we were more married to our work than each other.
+Claire,Female,But what about Sherry—how could you just leave her all alone? And while Raccoon City burned to hell.
+Annette,Female,I couldn’t let my daughter grow up in a world with the G-virus in it.
+Claire,Female,But that’s no excuse to leave her—
+Claire,Female,Annette!
+Annette,Female,"I got this. I’m sorry, William…"
+Claire,Female,No. I got this. You should take care of Sherry.
+Annette,Female,You don’t know what you’re up against.
+Claire,Female,I have a pretty damn good idea…
+Annette,Female,"Whatever you do, don’t stop until it’s finished."
+Claire,Female,Trust me. This ends now.
+Computer,,Class A breach detected. Lab quarantined until target is neutralized.
+Computer,,Target has been neutralized. Ending quarantine. Service lift is now operational
+Claire,Female,Gotta get back to Sherry…
+Claire,Female,Hey!
+Sherry,Female,I knew you’d make it. My mom needs help.
+Claire,Female,Annette?
+Annette,Female,Sh… Sherry… How are you?
+Sherry,Female,OK… But you don’t look so good.
+Sherry,Female,Mommy!?
+Annette,Female,"Hey, look at the screen. Oh, thank god."
+Claire,Female,"So, Sherry’s gonna be alright?"
+Annette,Female,"She’ll be weak for a little while but… Yes, she’s free of the G-virus."
+Claire,Female,Did you hear that?
+Sherry,Female,What happened to her?
+Claire,Female,She was attacked by that monster—
+Annette,Female,Don’t… Don’t worry about me. Take my daughter… to safety.
+Annette,Female,"I’m sorry, Sherry… for everything. Your life is what is important now—"
+Sherry,Female,We can’t just leave her here!
+Claire,Female,You’re right. We can’t.
+Computer,,Attention: Unauthorized removal of a [Level 4] virus detected. Facility lockdown initiated. Self-destruct sequence will begin when lockdown is complete.
+Claire,Female,What does that mean!?
+Annette,Female,It’s the… self-destruct code… In case the G-Virus leaves the building. Please… Save my daughter.
+Sherry,Female,No…!
+Claire,Female,"Sherry… Sherry… we gotta say goodbye to your mom. Come on. Please say goodbye. Please Sherry, listen… She loved you, OK? We really gotta get going… Come on."
+Sherry,Female,You were right about this jacket. I’m so lucky to have you.
+Claire,Female,"Listen, we can talk more about that later. We gotta hurry now. Come on."
+Claire,Female,"Sherry, can you walk faster?"
+Sherry,Female,Yeah…
+Claire,Female,"I don’t wanna rush you but, we have to go."
+Computer,,Attention: Self-destruct sequence initiated. Use the Central Elevator to evacuate immediately to the bottom-level train platform.
+Claire,Female,Let’s get the hell outta here.
+Sherry,Female,"Um, Claire…!"
+Claire,Female,Yeah?
+Sherry,Female,Thank you for being so nice to me… For helping me. I’m really glad I met you.
+Claire,Female,"I’m glad I met you too, Sherry. But save your thanks until I get you out of this place."
+Computer,,Ten minutes until detonation.
+Claire,Female,"Sherry, run!"
+Claire,Female,Of course the stupid thing is locked—
+Sherry,Female,Hold on!
+Claire,Female,Sherry what’re you—!?
+Sherry,Female,I think I can open it from the other side!
+Claire,Female,Goddammit your timing sucks!
+Computer,,Nine minutes until detonation.
+Sherry,Female,I got it!
+Claire,Female,"Huh, nice work, Sherry!"
+Sherry,Female,We make a good team.
+Claire,Female,Sherry!? You hangin’ in there!?
+Sherry,Female,I’m right behind you!
+Claire,Female,Attagirl! Think we’re almost outta here…!
+Sherry,Female,Claire! Maybe we can use that!?
+Claire,Female,Worth a try!
+Computer,,Eight minutes until detonation. Seven minutes until detonation.
+Sherry,Female,What are you doing?
+Claire,Female,"I gotta get this train moving. I need you to stay right here, OK?"
+Sherry,Female,OK. I promise I won’t move.
+Claire,Female,Good.
+Sherry,Female,Be careful.
+Claire,Female,Always.
+Claire,Female,"OK… Alright, did something… OK… Alright, it’s working."
+Leon,Male,Claire!
+Claire,Female,What!? Leon? You’re down here too!?
+Leon,Male,"Yeah. But the whole place is coming down. Look, you need to get out! Fast!"
+Claire,Female,I know. I found a way out. I think… I think we can all make it. Where are you now?
+Leon,Male,"Claire, are you still there?"
+Claire,Female,Leon!? I’m sorry you’re breaking up.
+Leon,Male,Don’t worry about me! Just get outta here!
+Claire,Female,Leon. Leon! Damn!
+Claire,Female,Why can’t you just die!?
+Computer,,Six minutes until detonation. Five minutes until detonation. Three minutes until detonation. Two minutes until detonation. One minute until detonation.
+Sherry,Female,Claire!
+Claire,Female,"It’s OK, I’m here. We are getting outta here!"
+Claire,Female,So what’s the first thing you wanna do when we get outta here?
+Sherry,Female,I want to see where you live.
+Claire,Female,"Good, cause I…need to take a shower."
+Sherry,Female,Yeah…
+Claire,Female,"Really? That bad… oh, yeah…"
+Leon,Male,Claire.
+Claire,Female,Leon! It’s so good to see you.
+Leon,Male,I told you we’d make it didn’t I?
+Claire,Female,You did.
