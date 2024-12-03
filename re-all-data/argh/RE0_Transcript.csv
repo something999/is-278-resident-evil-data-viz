@@ -6,9 +6,9 @@ Man 2,Male,Yeah.
 Man 3,Male,...do about it?
 Man 4,Male,We should hold off for a while.
 Man 5,Male,I wonder how those RNP people will react to this?
-Man 6,Male,Hmm?
-Man 6,Male,(gasps)
-Man 6,Male,(screams and leaps from his seat.)
+Man With Glasses,Male,Hmm?
+Man With Glasses,Male,(gasps)
+Man With Glasses,Male,(screams and leaps from his seat.)
 Rebecca,Female,It began as a simple investigation of some bizarre murders in the suburbs of Raccoon City. Nothing in our training could ever have prepared us for the nightmare that ensued. We never stood a chance.
 Enrico,Male,What's going on?
 Edward,Male,Engine failure! Emergency landing!
@@ -106,20 +106,20 @@ Wesker,Male,"She's just a rookie, a member of S.T.A.R.S."
 Birkin,Male,"Hmm, and what about the male."
 Wesker,Male,I'm unfamiliar with him.
 Birkin,Male,Hmm?
-Marcus,Male,"Attention! This is Dr. Marcus. Please be silent as we reflect upon our company motto. Obedience breeds discipline, discipline breeds unity, unity breeds power, power is life."
+Voice,,"Attention! This is Dr. Marcus. Please be silent as we reflect upon our company motto. Obedience breeds discipline, discipline breeds unity, unity breeds power, power is life."
 Wesker,Male,Who are you?
-Leech,,"It was I who scattered the T-Virus in the mansion, needless to say I contaminated the train too."
+Queen Leech,,"It was I who scattered the T-Virus in the mansion, needless to say I contaminated the train too."
 Birkin,Male,What?
-Leech,,Revenge..on Umbrella!
+Queen Leech,,Revenge..on Umbrella!
 Birkin,Male,Dr. Marcus?
-Leech,,"Ten years ago, Dr. Marcus was murdered by Umbrella. You helped them, didn't you?"
+Queen Leech,,"Ten years ago, Dr. Marcus was murdered by Umbrella. You helped them, didn't you?"
 Rebecca,Female,"Augh! Ahhh, Billy!"
 Billy,Male,Rebecca!
 Billy,Male,Rebecca! Are you all right?
 Rebecca,Female,"Yes, thank you."
 Rebecca,Female,I'm almost there.
 Billy,Male,Glad I could be of service. Time to go inside.
-Leech,,"You are wasting your time. I have already claimed this place for myself, which means you are trespassing and I am very territorial. (laughs)"
+Queen Leech,,"You are wasting your time. I have already claimed this place for myself, which means you are trespassing and I am very territorial. (laughs)"
 Birkin,Male,"It just doesn't make sense. Do you honestly believe this to be the real identity of that crazy young man? Impossible. But, if somehow it is true then Umbrella will be finished."
 Wesker,Male,"If the old conspiracy against Dr. Marcus is revealed Mr. Spencer's career will be over, not to mention ours too. So, the time has come at last."
 Birkin,Male,What are you going to do?
@@ -186,9 +186,9 @@ Rebecca,Female,"Yes, but we got separated and.."
 Enrico,Male,"No point worrying about him. He won't make it. Come on, let's go!"
 Rebecca,Female,"Sir, please. I need to find him. Don't worry, I'll catch up with you."
 Enrico,Male,"Rebecca.. (sighs) All right, just be careful."
-Rebecca,Female,I never saw him again.
+Rebecca'S Voice,,I never saw him again.
 Rebecca,Female,What is that?
-Leech,,(laughs) Playtime is over. You and your friends no longer amuse me. Good riddance. Now nothing will stop me from getting my revenge!
+Queen Leech,,(laughs) Playtime is over. You and your friends no longer amuse me. Good riddance. Now nothing will stop me from getting my revenge!
 Rebecca,Female,Billy!
 Rebecca,Female,Billy!
 Rebecca,Female,"No, Billy!"
@@ -199,7 +199,7 @@ Rebecca,Female,Hmm?
 Rebecca,Female,What could have done this?
 Billy,Male,They must have been used as test subjects in Marcus' research. He must have kept messing around with the Mother Virus!
 Rebecca,Female,(concerned) Billy?
-Leech,,"Welcome, young ones. So glad you have joined the party. You are the guests of honor, after all it's your wake."
+Queen Leech,,"Welcome, young ones. So glad you have joined the party. You are the guests of honor, after all it's your wake."
 Billy,Male,Who are you?
 Billy,Male,Dr. Marcus?
 Rebecca,Female,"no, you can't be!"

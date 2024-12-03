@@ -58,7 +58,7 @@ Jill,Female,"It's my turn, bitch!"
 Carlos,Male,"Hey, fuckface."
 Carlos,Male,"Hey, easy lady… I got ya."
 Jill,Female,Who are you? What are you do—
-Carlos,Male,"Name's Carlos and I'm saving you! C'mon, let's get you someplace safe."
+Man,Male,"Name's Carlos and I'm saving you! C'mon, let's get you someplace safe."
 Carlos,Male,I think we're in the clear.
 Jill,Female,Hope so.
 Carlos,Male,We've been bringing survivors here.
@@ -75,9 +75,9 @@ Carlos,Male,Whoa whoa whoa whoa. What are you talking about? We're just here to 
 Jill,Female,What's wrong with Umbrella? Oh my god. Your company is responsible for infecting everyone!
 Carlos,Male,"Yeah, uh, I don't know anything about all that. You don't have to trust me, but I'm going to the shelter. You comin'? C'mon. It's this way."
 Carlos,Male,Hey Captain. This fine young lady could use our help.
-Mikhail,Male,"Carlos, you didn't even think to ask fine young lady her name? She is an elite operative of R.P.D. Special Tactics and Rescue Service. Her name is… something... Valentine."
+Mikhail,,"Carlos, you didn't even think to ask fine young lady her name? She is an elite operative of R.P.D. Special Tactics and Rescue Service. Her name is… something... Valentine."
 Jill,Female,It’s Jill.
-Mikhail,Male,"Nice to meet you, Jill. I am U.B.C.S. Platoon Leader Mikhail Victor. My team was sent here to rescue civilians."
+Mikhail,,"Nice to meet you, Jill. I am U.B.C.S. Platoon Leader Mikhail Victor. My team was sent here to rescue civilians."
 Jill,Female,Right. How's that going for you?
 Mikhail,Male,"The city is completely cut off. Isolated. Most of the hundred thousand civilians will wind up dead. Ah, correction: undead. My platoon has suffered serious losses. Just keeping them alive is more than I can manage."
 Jill,Female,"Well, you can thank your corporate overlords for that."
@@ -109,9 +109,9 @@ Jill,Female,"This must be the subway company's offices. Huh, nothing..."
 Jill,Female,There.
 Jill,Female,Is someone in here?
 Jill,Female,You're U.B.C.S.?
-Guy,Male,"Yeah. C-Careful, careful. C'mon don't look at me like that, alright? I'm not an infected!"
+Guy,,"Yeah. C-Careful, careful. C'mon don't look at me like that, alright? I'm not an infected!"
 Jill,Female,"OK, let's take care—"
-Guy,Male,No no no wait! Please!
+Guy,,No no no wait! Please!
 Jill,Female,What the fuck!
 Man,Male,He was infected.
 Jill,Female,He might have been infected.
