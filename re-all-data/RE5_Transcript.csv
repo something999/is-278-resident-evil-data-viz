@@ -1,0 +1,695 @@
+﻿Character,Gender,Line
+Soldier,,Move! Move!
+DeChant,Male,Captain DeChant here. We've secured the underground route to the coordinates.
+Sheva,Female,Welcome to Africa. My name is Sheva Alomar.
+Chris,Male,Chris Redfield.
+Sheva,Female,"Your reputation proceeds you, Mr. Redfield. It's an honor."
+Chris,Male,"Just Chris, thanks. So will you be accompanying me to the destination?"
+Sheva,Female,Yes. Tensions are running high ever since the change in government.
+Chris,Male,I'll bet. Intel says it's a haven for terrorists now.
+Sheva,Female,"And they're not going to be happy to see an American, BSAA or not. That's why I'm your partner; help put them at ease."
+Chris,Male,I'm sure you'll do just fine.
+Sheva,Female,You okay?
+Chris,Male,"Yeah, sorry...It's nothing. Let's go."
+Guard,,Hey! Hey! [Speaks African language]
+Sheva,Female,You don't have to get touchy!
+Chris,Male,"Chris here. Coming in, loud and clear, Kirk."
+Sheva,Female,"Yes, we read you."
+Kirk,Male,There's a black market weapons deal going down in Kijuju. That's where Irving will be. Alpha Team has already infiltrated the area and you will be going in as backup. Rendezvous with your contact at the butcher's shop. You can gear up and get briefed on the mission there. Watch your backs!
+Chris,Male,Roger that.
+Sheva,Female,Copy. OVer and out.
+Fisher,Male,Good. You're both here. Come.
+Fisher,Male,"You two. This way. It may be because of the new government, but people around here are a little on edge. You should do what you came to do and go home."
+Chris,Male,"Yeah, they really roll out the red carpet for us Americans."
+Fisher,Male,I have your weapons for you here. Check them.
+Fisher,Male,Grab your weapons. The operation's already started.
+Sheva,Female,Destination coordinates?
+Fisher,Male,"Town square up ahead. Go through there, Alpha Team's waiting at the deal location."
+Sheva,Female,Good.
+Fisher,Male,What do you know about Uroboros?
+Chris,Male,Mostly just rumors...something about a doomsday project.
+Fisher,Male,"Doomsday sounds about right, and apparently it is no rumor."
+Sheva,Female,"You're kidding, right?"
+Fisher,Male,"You must find a man named Irving, he's our only lead."
+Fisher,Male,And be careful out there.
+Chris,Male,"Remember, we're a team. Whatever happens, we stick together."
+Sheva,Female,"Don't worry, I may not be as big as you, but I can still hold my own."
+Chris,Male,Freeze!
+Chris,Male,Are you okay?
+Sheva,Female,What the hell just happened?
+Chris,Male,They didn't act like any zombies I've ever seen.
+Chris,Male,"Kirk, come in. The locals were hostile and we had to use force. We don't have any contingency plans for this situation, do we, Kirk?"
+Kirk,Male,Roger on the locals. But your orders still stand.
+Sheva,Female,What does that mean? Was HG expecting this?
+Fisher,Male,You don't know what you're talking about! You can all go to hell!
+Sheva,Female,Wait a minute! That's the--
+Chris,Male,"Kirk! Come in! The locals are hostile! The gate is sealed, and we're trapped. We need backup, and we need it right now!"
+Kirk,Male,Roger that. Just sit tight. I'm on my way!
+Chris,Male,You here that Sheva? Help is on the way!
+Sheva,Female,Got it! I just hope he gets here quick!
+Sheva,Female,There's just no end to them!
+Chris,Male,We have to hold out until Kirk gets here.
+Kirk,Male,"Chris, Sheva. How you holding up? I'll be there shortly, just hang in there!"
+Kirk,Male,Sorry to keep you waiting. I'm going to take out the door. Find some cover!
+Kirk,Male,Take cover!
+Chris,Male,"Kirk, we owe you one."
+Chris,Male,Roger that.
+Kirk,Male,I'm going up ahead. We'll meet up there. Good luck!
+Kirk,Male,"Captain, what is your status? Can you see the enemy?"
+DeChant,Male,"No, no! Wait! God damn monster! (shouts in pain)"
+Sheva,Female,"Alpha Team, come in! Alpha Team!"
+Chris,Male,DeChant! Do you copy!? DeChant!
+Allyson,Female,Help! Somebody help me!
+Allyson,Female,Help!
+Chris,Male,"Hey, what's wrong? (to SHEVA) Be careful. They may still be here."
+Chris,Male,Are you okay?
+Sheva,Female,Chris!
+Kirk,Male,"Mathison to HQ. We've lost contact with Alpha Team. They're under attack by an unidentified hostile! Reinforcements, heat toward the deal coordinates immediately!"
+Sheva,Female,SHEVA here. Roger that!
+Chris,Male,Move out!
+Chris,Male,What the hell happened in here?
+Chris,Male,"Hey, who did this?"
+DeChant,Male,Something attacked us...Irving...He got away...It was a setup...
+Chris,Male,A setup...!?
+Chris,Male,What is this?
+DeChant,Male,It's data regarding the deal...I downloaded it from their computer... You got to get it to HQ...
+Chris,Male,"Hey...hey, hang in there!"
+Sheva,Female,"I saw someone, but they ran away..."
+Kirk,Male,Roger. Relay the data from the vehicle at the storage facility.
+Chris,Male,Copy that.
+Sheva,Female,What the hell is it?
+Chris,Male,I think that's what got Alpha Team!
+Chris,Male,I got it.
+Sheva,Female,What was that thing?
+Chris,Male,A B.O.W. that scum bag Irving lift behind to set us up. (typing on the laptop) Considering what it did to Alpha Team...I think we're lucky to still be breathing.
+Sheva,Female,If only we could have gotten there sooner.
+Chris,Male,"If we had, we'd probably be dead too. (into radio) Chris to HQ, do you copy?"
+Chris,Male,"This whole town's gone to hell. The people here they're acting like those Ganados detailed in the Kennedy Report, and aside from that, there's something new, something we've never encountered before."
+Sheva,Female,Our transportation has been taken out too. Requesting a mission update.
+HQ,,The mission stands. Capturing Irving is your top priority. We believe he may have fled to the mines on the other side of the train station.
+Chris,Male,"Wait, we're the only two left, you want us to go in there alone!?"
+HQ,,Delta Team have been dispatched and are on their way. They will assist you in locating and apprehending Irving.
+Sheva,Female,"But wait, we can't..."
+HQ,,"I repeat, your mission stands. We can't afford to let him get away. Proceed to the mines beyond the station. Over and out."
+Sheva,Female,This is insane!
+Chris,Male,You ever get the feeling you're expendable?
+Sheva,Female,My God...
+Chris,Male,Something's coming! Watch out!
+Kirk,Male,"HQ sent me in to provide you support. It's gonnet get hot down there, so watch out!"
+Sheva,Female,"Roger. Thanks, Kirk."
+Chris,Male,"Wow, I didn't think HQ actually cared."
+Kirk,Male,Stay frosty down there. You're almost at the station.
+Kirk,Male,"What the fuck are those!? Mathison to HQ, I'm under attack by flying B.O.W.'s!"
+Kirk,Male,I'm losing engine power! Oh shit! I'm out of control! I'm going down! Mayday! Mayday!
+Chris,Male,Kirk! What's going on!? Come in! Kirk!
+Chris,Male,Look out!
+Chris,Male,"Man, am I glad to see you guys."
+Josh,Male,"Delta Team, captain Stone."
+Chris,Male,Chris Redfield.
+Josh,Male,Sheva.
+Sheva,Female,Thanks Josh. I owe you one.
+Chris,Male,You guys know each other.
+Sheva,Female,I trained under Josh. He taught me everything I knew.
+Josh,Male,"Sheva became the little sister of the team. Now Sheva, you must continue your search for Irving. According to the data we received fromthe hard drive, we believe he has moved onto the mining area. There's moreinfo inside. (hands Chris a flash drive) We'll follow after taking care of business here. And keep your radio handy just in case."
+Sheva,Female,Thanks Josh.
+Chris,Male,Jill...
+Sheva,Female,"Chris, are you alright?"
+Chris,Male,"This picture it's...Forget it, it's nothing. Let's move out."
+Chris,Male,"Sheva, do you know where the mines are?"
+Sheva,Female,Past the station. Not too far from here. Follow me.
+Sheva,Female,I'll take the lantern. Stay close to me.
+Sheva,Female,I'll open it. You go ahead.
+Chris,Male,Freeze!
+Irving,Male,Oh shit!
+Sheva,Female,So you must be Irving?
+Irving,Male,"Wow, perceptive, aren't 'cha?"
+Sheva,Female,You think this is a joke? You're just like all the other pieces of scum terrorists.
+Irving,Male,Oh I'm not like them! I'm a businessman with standards.
+Chris,Male,Drop the weapon.
+Irving,Male,Or...how 'bout you drop yours.
+Jill,Female,Hurry!
+Irving,Male,Suckers!
+Chris,Male,Shit!
+Chris,Male,Great.
+Sheva,Female,Looks like Irving has a partner.
+Chris,Male,There must be something here he didn't want us to see.
+Sheva,Female,What is it?
+Chris,Male,Look at this.
+Sheva,Female,The oil field...that's in the marshlands!
+Chris,Male,We think he's heading for an oil field in the marshlands.
+Josh,Male,"OK, I'm sending someone after him now. I need you two to head back this way."
+Chris,Male,Roger that.
+Sheva,Female,I'll cover you from up there! Give me a hand!
+Sheva,Female,"It's too heavy, let me give you a hand."
+Chris,Male,What is that!?
+Sheva,Female,"I don't know what that thing is, but I'm sure Irving's responsible!"
+Sheva,Female,We should trap it between us! I'll take the rear!
+Sheva,Female,This thing won't stop moving! What can we do to slow it down!
+Dave,Male,Chris! Sheva! Get in!
+Dave,Male,I heard about Irving. Tough break.
+Sheva,Female,"Yes, but there will be other opportunities. (into radio) Sheva to headquarters."
+HQ,,This is headquarters. What's your situation?
+Sheva,Female,There's a high probability that Irving is on his way to an oil field in the marshlands. we're re-joining Delta Team and heading there now.
+HQ,,Understood.
+Chris,Male,"Ah, we got company!"
+Sheva,Female,"They don't let up, do they?"
+Chris,Male,"Do what you got to do to stop 'em! But don't get too trigger happy or the guns'll overheat! If that happens, we'll be an easy target till they cool down!"
+Dave,Male,We got some sharp curves up ahead! Hold on tight!
+Chris,Male,What does this have to do with Uroboros?
+Josh,Male,You got me. They didn't say.
+Chris,Male,Looks like the only way we're getting answers is from Irving.
+Dave,Male,It's gonna get bumpy! Hang on!
+Dave,Male,We got some sharp curves up ahead! Hold on tight!
+HQ,,"Reinforcements are on route. Hold your position until they arrive. I repeat, hold your position!"
+Dave,Male,Let's pick up the pace.
+Dave,Male,What the...! There's no getting past that truck unless you two do something about it!
+Dave,Male,Nice!
+Dave,Male,He's trying to ram us into the river! Do something!
+Dave,Male,Hang on!
+Sheva,Female,What could've done this...
+Chris,Male,Look out!
+Chris,Male,Oh shit!
+Chris,Male,Go! Go! Go! Get to the truck!
+Sheva,Female,"Take this, you ugly bastard!"
+Sheva,Female,Look! There's something coming out of it! We should try aiming at those!
+Sheva,Female,Something's wrong with him! Watch out!
+Chris,Male,"Sheva, you don't have to do this. You can still back out."
+Sheva,Female,What about you?
+Chris,Male,I've got a personal stake in this.
+Sheva,Female,"A personal stake? Chris, look around! We should both get the hell out of here."
+Chris,Male,I'm not here just for the mission.
+Sheva,Female,What are you talking about?
+Chris,Male,"A while back I received some intel that my old partner was still alive. At first I didn't know what to think, but when I saw the data file from Delta Team, I knew for sure. Jill is still alive."
+Sheva,Female,That woman in the data file? Are you even sure it's the same person!?
+Chris,Male,"We were partners, I'm sure."
+Sheva,Female,Wait!
+Sheva,Female,Wait! You're not going alone!
+Sheva,Female,Chris! Wait!
+Chris,Male,"I don't have much time, I have to find her."
+Sheva,Female,I'm going with you! These are my people that are dying here.
+Chris,Male,"Are you sure about this? A second ago, you were ready to cut and run."
+Sheva,Female,I can't just turn my back and walk away.
+Chris,Male,There are no more orders from here on in. It's just us.
+Sheva,Female,We're partners to the end. Now let's get moving.
+Sheva,Female,What happened to your partner?
+Chris,Male,Jill and I were pursuing a man named Albert Wesker.
+Chris,Male,Wesker!
+Jill,Female,No!
+Wesker,Male,Let's finish this.
+Chris,Male,Jill!
+Chris,Male,Jill's body was never found and she was presumed dead. The person I saw in that data looked like her. I...have to know if she's still alive.
+Sheva,Female,You two were close.
+Chris,Male,We were partners. What about you? Why'd you join the BSAA?
+Sheva,Female,My parents were involved in an accident caused by a pharmaceutical company when I was young.
+Chris,Male,Umbrella?
+Sheva,Female,Yes. I only found out later that the accident was to cover up the manufacturing of biological weapons for terrorists. They were using Africa as a test bed for their experiments. Bioweapons were responsible for the death of my parents. And someone has to pay for that!
+Chris,Male,So you joined the BSAA.
+Sheva,Female,"There's only so much one person can do. Even a superhero like you, Chris."
+Chris,Male,"I'm no superhero. But together, we can end this"
+Sheva,Female,Then let's make a stand for our fallen brothers!
+Chris,Male,Hang on.
+Chris,Male,They're all infected!
+Sheva,Female,How could someone do this to them?
+Sheva,Female,You steer! I'll shoot!
+Sheva,Female,Slow down! It's hard enough to shoot as it is!
+Chris,Male,Looks like we have to go this way.
+Sheva,Female,I'll turn this crank. You head toward the bridge.
+Sheva,Female,Get on the raft and I'll turn the crank.
+Chris,Male,Tricell...?
+Chris,Male,They help fund the BSAA...What the hell are they doing here?
+Sheva,Female,Looks like we've arrived at the oil field.
+Chris,Male,Yeah...And Irving's not getting away this time.
+Sheva,Female,Look! It's Irving.
+Sheva,Female,I'll cover you!
+Sheva,Female,That's the last thing we need!
+Sheva,Female,Another one!?
+Sheva,Female,Josh?
+Josh,Male,Sheva?
+Sheva,Female,You're alive. Are you okay? Wh--How did you get here?
+Josh,Male,"We were at the port when we were attacked, and then...well...I ended up here. Where's the rest of the team."
+Josh,Male,Shit!
+Sheva,Female,It's just the three of us now.
+Josh,Male,"Why did you not retreat? I mean, we're no match for them!"
+Chris,Male,I've got unfinished business.
+Sheva,Female,The hard drive containing data on the B.O.W. experiment had a picture inside; the picture was of Chris' friend.
+Josh,Male,A friend?
+Chris,Male,I'm not leaving until I catch Irving and find out what the hell is going on here.
+Josh,Male,Let's save the chit-chat for later.
+Josh,Male,"Sheva, cover me!"
+Chris,Male,Hurry!
+Josh,Male,Cover me while I disable the elevator's lock.
+Josh,Male,"Nice job, but don't let your guard down. There's bound to be more of them around."
+Josh,Male,Almost got it!
+Josh,Male,"There! Got it! You two, on the elevator! Move!"
+Josh,Male,Move! Move!
+Josh,Male,Bloody hell! These bastards don't quit!
+Josh,Male,There should be an exit up ahead! Go!
+Josh,Male,Dammit! Is everything locked down!?
+Josh,Male,"This is gonna be a pain in the ass, but I will see what I can do..."
+Josh,Male,"Oh no! Not this shit again! You two, engage those hostiles!"
+Josh,Male,"Okay, got it!"
+Josh,Male,Forget those guys! OVer here--on the double!
+Josh,Male,Are you okay?
+Chris,Male,"Yeah, I think so."
+Sheva,Female,I'm okay.
+Josh,Male,It looks like Irving is trying to blow up the place and make his escape. You must stop him before it is too late. I'll try to find us a way out of here.
+Chris,Male,"Alright, we'll go after Irving."
+Josh,Male,"Good! Okay, now there's a dock up ahead. That is probably where he is going to make his break."
+Sheva,Female,Copy that.
+Sheva,Female,And Josh! Be careful.
+Chris,Male,Let's hurry.
+Sheva,Female,Okay.
+Sheva,Female,That's Irving's boat! Let's go!
+Sheva,Female,There he is!
+Sheva,Female,Wait! Isn't that...?
+Irving,Male,Splendid timing! You two are just in time for the fireworks show! Boom! (laughs)
+Chris,Male,Wait! (to SHEVA) I hate that guy.
+Josh,Male,"Sheva, do you read me? I secured a boat! I'm on the other side of the dock! Get here on the double!"
+Josh,Male,What's taking so long? Chris! Use your PDA to confirm the coordinates! These guys aren't making it easy! (as CHRIS and SHEVA approach) Get over here! Hurry!
+Sheva,Female,Hurry! Over here!
+Josh,Male,Quickly! We must go! (to SHEVA) Are you all right?
+Josh,Male,What happened to Irving?
+Josh,Male,Ahh...well he can't have gone too far.
+Sheva,Female,Josh...
+Chris,Male,Thanks.
+Josh,Male,"thank me later, we got company!"
+Chris,Male,I'm on it!
+Sheva,Female,We got you covered!
+Josh,Male,Here we go! Hang on tight!
+Josh,Male,Dammit! The gate's closed! See what you two can do to get it open!
+Josh,Male,Alright! Let's go!
+Josh,Male,Get down!
+Josh,Male,Another pipe! Get down!
+Josh,Male,Another gate...okay! You two know what to do!
+Josh,Male,Okay! Now let's go get this Irving!
+Josh,Male,Oh shit!
+Chris,Male,Damn it! They're gonna to sink us!
+Josh,Male,We've got to do something!
+Chris,Male,We gotta get aboard that ship!
+Josh,Male,Hold on! Get ready!
+Irving,Male,You're just one of Excella's playthings!
+Irving,Male,It was your master who was--
+Jill,Female,One more time! What are you going to do about them?
+Irving,Male,Alright! Alright! I'll handle it.
+Jill,Female,Use it.
+Irving,Male,This?
+Irving,Male,"Won't you two just die already!? You're making me look bad! Who do you think got this entire operation off the ground? Research like this doesn't fund itself, you know. Yet everyone looks down on me. (holds up the syringe) But not anymore."
+Sheva,Female,Don't do it!
+Irving,Male,I'm far beyond anything you could ever hope to become! (laughs)
+Chris,Male,Shit.
+Irving,Male,I just had an extreme makeover!
+Josh,Male,Chris! Status report! What the hell is that thing!?
+Chris,Male,"Just get outta here, Josh! It's too dangerous!"
+Sheva,Female,We'll try to stop it!
+Josh,Male,Understood. Just try not to get yourselves killed!
+Sheva,Female,Something that undergoes such a rapid transformation must have a weakness.
+Sheva,Female,There's the little weasel!
+Chris,Male,Tell me what you're planning to do!
+Irving,Male,Damn Excella! I guess I wasn't worth the good stuff.
+Sheva,Female,Excella?
+Chris,Male,Where is this facility? Answer me! What is the Uroboros Project!?
+Irving,Male,"The BSAA...wow, you two are just on top of everything, aren't ya? The balance of the world is changing and you're completely oblivious to it."
+Sheva,Female,What's changing? What are you talking about!? Is it the Uroboros Project? Is that it?
+Irving,Male,It's too late now. No one can stop it. Uroboros is about to change everything... (starts to moan in pain)
+Sheva,Female,Chris!
+Irving,Male,Chris? So you're Chris. (laughs)
+Chris,Male,What's so funny? How do you know about me?
+Irving,Male,"All your answers await ahead, Chris...in that cave. If you can survive long enough to get them. (starts to laugh again) Dying's not so bad. But it's not gonna change anything. You're still screwed!"
+Chris,Male,We're wasting time here.
+Sheva,Female,Chris...
+Chris,Male,Poor bastard...
+Sheva,Female,Now what?
+Chris,Male,We keep going.
+Chris,Male,So this is the place he was talkin' about.
+Josh,Male,So you two are really gonna go through with this?
+Chris,Male,Yes.
+Sheva,Female,"This is not just about Jill, but the Uroboros Project as well."
+Josh,Male,I guess there's nothing I can do to stop you. I will call HQ and try to get the withdrawal order rescinded. I will also try to get you backup. Try not to get yourselves killed!
+Sheva,Female,"That name Irving said, Excella..."
+Chris,Male,You've heard it before?
+Sheva,Female,That's the name of the director of Tricell's African division.
+Chris,Male,Do you think she could be connected to Irving?
+Sheva,Female,"It's possible, but I don't have any proof."
+Chris,Male,"Tricell...if there is a connection, what does that mean for Africa?"
+Sheva,Female,"Not sure, but if we keep going, we're bound to find out."
+Chris,Male,True. Let's move.
+Sheva,Female,I never knew such a place existed here...
+Chris,Male,It looks like there's been some recent activity.
+Sheva,Female,I hope Irving was telling the truth when he said we'd find answers in this place.
+Sheva,Female,I'll provide cover!
+Sheva,Female,What on God's name are those? Better give them a wide berth!
+Sheva,Female,Hurry! It's closing!
+Sheva,Female,Get to the other one!
+Sheva,Female,There's only one chain. The other one must be somewhere else.
+Excella,Female,The preparations are almost complete. Then we can leave.
+Wesker,Male,Good.
+Excella,Female,"You know, I was surprised Las Plagas was such a success. When you first arrived I had my doubts. And now Uroboros is complete."
+Wesker,Male,Your position at Tricell is secured.
+Excella,Female,"Oh...I have my eyes set on something much bigger. You'll be needing a partner, right? Someone suitable to join you in your new world? I believe I've proved I'm worthy, haven't I?"
+Wesker,Male,Perhaps you have.
+Jill,Female,The BSAA are here.
+Excella,Female,It appears your old friend Chris Redfield has come to pay a visit. Do I sense concern?
+Wesker,Male,"The plan is in its final stages, I will not tolerate delays."
+Spencer,Male,...a new superior breed of humans...creating a new world... the Progenitor Virus...you! I was to become a God!
+Wesker,Male,That right is now mine.
+Wesker,Male,"I believe I should thank you, Spencer."
+Sheva,Female,Impressive...they appear to be focusing sunlight into a laser-like beam.
+Sheva,Female,I see...there's a trick to getting out of here. Tread carefully. Those beams are dangerously focused.
+Sheva,Female,Looks like it worked. Are we finished?
+Sheva,Female,"That pillar is in the way, but I think we can knock it over."
+Sheva,Female,Another one down. What's next.
+Sheva,Female,Alright! We got it!
+Chris,Male,What is this place?
+Sheva,Female,How can these survive underground?
+Chris,Male,These are no ordinary flowers...
+Chris,Male,Wait!
+Chris,Male,Umbrella?
+Sheva,Female,What? What was Umbrella doing here?
+Chris,Male,I don't know. But it doesn't look like anyone's been around for a while.
+Sheva,Female,You can be sure they wanted to keep this place a secret.
+Chris,Male,Some of this equipment's got the Tricell logo on it.
+Sheva,Female,Were they working together?
+Chris,Male,I wonder if this is what Irving meant by answers.
+Sheva,Female,"Not sure...but obviously there's a connection here with Umbrella, and that's never a good sign."
+Chris,Male,"We can worry about this later. First, we need to find out about Jill."
+Sheva,Female,You're right. Let's see what we can dig up.
+Sheva,Female,They must be processing these flowers to make something.
+Chris,Male,This is the facility from the picture. No doubt about it.
+Sheva,Female,We're finally getting somewhere.
+Chris,Male,Thank God there weren't more of them.
+Sheva,Female,"Yeah, we wouldn't last in a fight with a whole horde."
+Sheva,Female,I don't think they notice us.
+Chris,Male,Guess their senses are weak.
+Sheva,Female,"Just to be safe, we should be as quiet as possible."
+Chris,Male,What the hell?
+Sheva,Female,This was in the pictures too.
+Chris,Male,"Wait, that means Jill might be here!"
+Sheva,Female,What have they done?
+Chris,Male,Jill!
+Sheva,Female,Why?
+Chris,Male,Eat this!
+Sheva,Female,It's working! His shell is cracking!
+Chris,Male,Have another one!
+Sheva,Female,The shell is off! Aim for that spot!
+Chris,Male,Dammit! Where is she?
+Excella,Female,Mr. Redfield. How nice to finally make your acquaintance.
+Chris,Male,Who the hell are you?
+Sheva,Female,Excella Gionne. She works for Tricell.
+Excella,Female,"Nice, you've done your homework."
+Sheva,Female,An officer in the Global Pharmaceutical Consortium. Why?
+Excella,Female,As if I need to explain myself to you. Although were't you two given orders to retreat?
+Sheva,Female,So it WAS you!
+Chris,Male,Where is Jill?
+Excella,Female,"Jill...even if I did know, you think I would tell you?"
+Chris,Male,Cut the crap! Tell me where she is!
+Excella,Female,"As soon as you two are done with your little vigilante mission, you should leave. There's nothing here worth throwing your lives away for."
+Sheva,Female,She's lying. She knows something.
+Chris,Male,It's time we get some answers.
+Sheva,Female,So this was the facility Excella was talking about.
+Chris,Male,She's got us under surveillance. I can almost guarantee she sent that B.O.W. to eliminate us.
+Sheva,Female,"You can ask her about that, and about Jill, once we find her."
+Chris,Male,"Alright, let's find her then!"
+Sheva,Female,I know that voice!
+Chris,Male,It's Excella.
+Excella,Female,That's...Albert...looking forward...
+Chris,Male,Albert!?
+Sheva,Female,What?
+Excella,Female,"And how are you holding up, Albert?"
+Chris,Male,Shit! Wesker...I thought he was dead...
+Sheva,Female,Looks like we have to go this way.
+Chris,Male,Missiles!?
+Sheva,Female,Why would they need these do you think?
+Chris,Male,Maybe they're planning to start a war.
+Sheva,Female,what manner of beast is that!?
+Sheva,Female,These must be the discarded test subjects from the research facility.
+Chris,Male,Sheva!
+Excella,Female,"Up here, you two."
+Chris,Male,Excella...where's Jill!?
+Excella,Female,"Jill, Jill, Jill. You're like a broken record, you know that? Just as single-minded as he said. You've spent so long trying to track down Uroboros, well, here. Enjoy."
+Sheva,Female,So Uroboros is a new B.O.W. And you're planning on selling it to terrorists.
+Excella,Female,"Good guess, but no. While it does resemble the B.O.W.s based on the Progenitor Virus, I have no intention of selling it to terrorists."
+Chris,Male,Then what are you using it for?
+Excella,Female,"Evolution. It's a philosopher's stone, one that will choose through DNA who shall proceed to the next stage. My vision and his combined, now made a reality."
+Sheva,Female,Evolution? What are you talking about!?
+Excella,Female,"Oh, you'll find out soon enough. Everyone will."
+Excella,Female,"Hmm, too bad. Looks like he wasn't worthy. Only the chosen ones are fit for the coming new world."
+Chris,Male,Excella! Wait!
+Emergency Voice,,Warning! A biohazard threat has been detected. Clean-up personnel must incinerate all contaminated materials.
+Chris,Male,That's the same type of bioweapon that wiped out Alpha Team!
+Sheva,Female,"Yes, but this one seems much more ferocious."
+Sheva,Female,Watch out for his arm!
+Emergency Voice,,Flamethrower tank is now full. You may resume use when ready.
+Sheva,Female,That's its weak spot!
+Sheva,Female,It's up to you! Burn that son of a bitch!
+Sheva,Female,I can't get past its arm!
+Emergency Voice,,No fuel remaining. Please refill tank.
+Emergency Voice,,Flamethrower tank is now full. You may resume use when ready.
+Sheva,Female,"Burn in hell, you son of a bitch!"
+Sheva,Female,That's it! That's its weak spot!
+Sheva,Female,I'll refuel it! Hold tight!
+Sheva,Female,What's all this nonsense about evolution and being worthy? What does she mean?
+Chris,Male,Something about a philosopher's stone and selecting DNA. It doesn't matter what she says; she's just a terrorist. End of story. We can't risk Uroboros getting out of here and infecting people.
+Sheva,Female,Then let's go take care of business!
+Sheva,Female,Here I go. Keep your eyes open.
+Sheva,Female,OK. Get this thing moving!
+Sheva,Female,It stopped!
+Chris,Male,"No, something's stopping it."
+Sheva,Female,It's going up again!
+Sheva,Female,Got him!
+Sheva,Female,More ruins. You think Excella is here?
+Chris,Male,"If we wanna find out, we're gonna have to lower that bridge."
+Sheva,Female,Excella Gionne! Stop right there!
+Chris,Male,"Damn it, where is Jill!?"
+Excella,Female,"Hmph! Jill? Maybe I'll tell you, maybe I won't."
+Chris,Male,"Stop playing around, we want some answers!"
+Wesker,Male,You haven't changed.
+Chris,Male,Wesker! You ARE alive!
+Sheva,Female,This is Wesker?
+Wesker,Male,"We last met at the...Spencer Estate, wasn't it? Well, isn't this one big family reunion? [strolls forward] I would expect you to be happier to see us."
+Chris,Male,Us...?
+Wesker,Male,So slow to catch on.
+Chris,Male,"Jill...Jill! It's me, Chris!"
+Sheva,Female,What? Are you sure that's her?
+Wesker,Male,The one and only.
+Wesker,Male,"Now let's finish this once and for all. I think the odds are fair, two on two. Right, Jill?"
+Wesker,Male,Seven minutes. Seven minutes is all I can spare to play with you.
+Wesker,Male,Poor performance indeed.
+Wesker,Male,Your future hinges upon this fight.
+Chris,Male,We'll never win like this. Time to change tactics.
+Sheva,Female,We should hide!
+Wesker,Male,There's no point in hiding. You can't hide forever!
+Sheva,Female,I'll take care of Jill! You take care of Wesker!
+Wesker,Male,You're merely postponing the inevitable!
+Sheva,Female,You have to attack before he sees you!
+Wesker,Male,Self-righteous fools!
+Wesker,Male,"I expected more of a challenge after all this time, Chris. How disappointing."
+Wesker,Male,Yes.
+Chris,Male,Go!
+Chris,Male,"Wesker, stop!"
+Chris,Male,"Jill, come on! It's me, Chris! Snap out of it!"
+Wesker,Male,"Nice move, Chris. But now that your partner has arrived, I'll leave you two to catch up."
+Chris,Male,"Come on, Jill! Get yourself together! Wake up! Jill Valentine!"
+Jill,Female,Chr...Chris...
+Chris,Male,Jill!
+Wesker,Male,Remarkable! Still resisting at such an advanced stage.
+Wesker,Male,"Commendable, yet futile! No more time for games, Chris. I've got work to do. Have fun watching Jill suffer."
+Chris,Male,Wait! What did you do to her!?
+Sheva,Female,What's that on her chest?
+Chris,Male,We have to get it off her!
+Sheva,Female,"If we can remove that device on her chest, she might return to normal!"
+Chris,Male,Alright...Then that's what we're gonna do!
+Chris,Male,Jill! What are you doing! Stop this! Jill! Answer me!
+Sheva,Female,Now! Hold her down!
+Chris,Male,"It's me, Chris! Don't you recognize me?"
+Chris,Male,"Come on! Snap out of it! Don't do this, Jill! I don't want to hurt you! Jill! What are you doing!?"
+Sheva,Female,We have to get that device off her chest!
+Chris,Male,Stop this! Jill! Answer me!
+Chris,Male,"It's me, Chris! Don't you recognize me?"
+Chris,Male,Come on! Snap out of it!
+Chris,Male,Jill!
+Chris,Male,Jill! Are you all right?
+Jill,Female,Chris...I'm so sorry...
+Chris,Male,It's okay.
+Jill,Female,"You're Sheva, right?"
+Sheva,Female,Yes.
+Jill,Female,"I couldn't control my actions, oh, but God I was still aware. Forgive me."
+Sheva,Female,It's all right.
+Jill,Female,Thank you.
+Jill,Female,Listen. I'm gonna be alright. You two need to stop him.
+Chris,Male,We can't just leave you here!
+Jill,Female,"You have to! This is your only chance! If Wesker succeeds, Uroboros will be spread across the globe! Millions will die!"
+Chris,Male,"Well yeah, but--"
+Jill,Female,I'm all right! You need to stop him!
+Jill,Female,Chris! You're the only one who can. Before it's too late. Don't you trust your partner?
+Chris,Male,All right.
+Jill,Female,Take care of him.
+Jill,Female,You're our only hope to survive this.
+Sheva,Female,Chris...
+Chris,Male,I'm all right.
+Sheva,Female,Over there!
+Chris,Male,It's time to put an end to this. Let's go!
+Sheva,Female,This ship is huge! Do you think they're planning to use it to spread Uroboros?
+Chris,Male,"No, using a ship like this would give away their position too soon. They must have another plan."
+Sheva,Female,We need to move this container. There should be a crane or something nearby.
+Sheva,Female,Thanks!
+Sheva,Female,I'm not going on without you. Come on!
+Sheva,Female,This tanker is so big. It won't be easy finding Wesker.
+Chris,Male,"That won't be a problem. Once he knows we're here, he'll find us."
+Sheva,Female,And how do you know that?
+Chris,Male,"Let's just say we have a history together, and he's not the type to let grudges go."
+Sheva,Female,Hmm...you must have done something to piss him off.
+Chris,Male,It goes a bit beyond just pissing him off.
+Sheva,Female,So...are you going to tell me what happened?
+Chris,Male,Maybe...but not until after we've put an end to all this. Deal?
+Sheva,Female,"Okay, but I'm holding you to that."
+Chris,Male,Freeze!
+Sheva,Female,What's going on here?
+Excella,Female,Nothing that concerns either of you.
+Sheva,Female,"We're not giving you an option, now spit it out!"
+Chris,Male,tell us what we want to know and you won't get hurt. Where's Wesker!
+Excella,Female,"If you can behave yourselves, maybe I'll tell you."
+Chris,Male,Damn it!
+Sheva,Female,She's tough. I'll give her that much.
+Sheva,Female,What's this?
+Sheva,Female,"Chris, is this...?"
+Chris,Male,"Whatever it is, Excella seemed protective of it."
+Sheva,Female,Their weapons keep getting bigger! Take cover!
+Sheva,Female,Rocket launcher!
+Wesker,Male,So you've made it this far...
+Wesker,Male,Too bad you won't make it much further.
+Spencer,Male,"...a new superior breed of humans given birth by the Progenitor Virus. The Wesker children were entrusted with endless potential. Of them, only one survived. You."
+Wesker,Male,Are you saying I was manufactured?
+Spencer,Male,"I was to become a god...(coughs)...creating a new world with an advanced race of human beings. However, all was lost with Raccoon City. Despite that setback, your creation still holds great significance. (coughs)"
+Spencer,Male,"Now my candle burns dimly. Ironic, isn't it? For one who has the right to be a god! To face his own mortality..."
+Wesker,Male,The right to be a god...
+Wesker,Male,The right to be a god? You? Arrogant even until the end. Only one truly capable of becoming a god deserves that right.
+Wesker,Male,"The right...With Uroboros, I have that right."
+Chris,Male,What the hell happened here?
+Chris,Male,Excella...what's going on!?
+Excella,Female,Why...when I've done so much...all for you...
+Chris,Male,Wesker!
+Wesker,Male,"Don't worry, your mission is at its end. Uroboros is on the eve of its appearance. Six billion cries of agony will birth a new balance!"
+Chris,Male,"Sorry Wesker, but not on my watch!"
+Excella,Female,Albert...you said we'd change this world together...why!?
+Sheva,Female,I thought they were partners.
+Chris,Male,Wesker doesn't give a damn about anybody but himself.
+Wesker,Male,"Soon even you will understand, Chris. One glimpse of my new world and it will all make perfect sense."
+Chris,Male,Show yourself!
+Wesker,Male,"Unfortunately, it's too late for you. You will not live to see the dawn! Sorry Excella, but it appears Uroboros has rejected you."
+Wesker,Male,Though you have been an excellent asset. I have one last task for you.
+Excella,Female,Albert!
+Sheva,Female,What the hell!?
+Wesker,Male,"Farewell, old friend."
+Sheva,Female,This way!
+Chris,Male,Persistent son of bitch.
+Sheva,Female,So now what? Do you think our weapons can hurt that thing?
+Chris,Male,"I dunno, but we gotta get the hell outta here before it destroys this place."
+Sheva,Female,It's tearing through the ship! We can't stay here!
+Sheva,Female,My God...Look how big it's become!
+Chris,Male,A satellite laser...we just might have a chance. The targeting device is on the roof! Come on! There's no time to lose!
+Sheva,Female,That thing is huge. Do you really think we can kill it?
+Sheva,Female,"It's all on you, Chris! I've got your back!"
+Sheva,Female,There is is! Fire!
+Sheva,Female,"That's it hit, hit it again! Watch out! It's firing off some sort of projectiles!"
+Sheva,Female,Chris! Above you!
+Sheva,Female,So that's Uroboros...I fear for the world if that ever gets out.
+Chris,Male,Goddammit Wesker! He's actually serious about destroying the entire planet!
+Chris,Male,Wait.
+Sheva,Female,An assault bomber! Then Jill and Wesker was planning to spread Uroboros throughout the world...
+Chris,Male,He's planning to use this to spread it.
+Chris,Male,"Wesker! There he is. Come on, let's go!"
+Chris,Male,Jill! Are you alright?
+Jill,Female,"I'm fine. Don't worry about me. Just listen carefully, there's something I need to tell you. Wesker's superhuman strength, it comes from a virus. But the virus is unstable. In order to maintain a balance he must inject himself regularly with a serum."
+Sheva,Female,So if we cut the supply of serum he loses his strength.
+Jill,Female,"Affirmative. But he just took a dose, so it's gonna be a while before he needs another one."
+Chris,Male,Damn.
+Jill,Female,"Listen, Excella said that the amount administered has to be precise. So if he injects too much it should act like a poison. I think she used a serum labeled PG67A/W."
+Sheva,Female,PG67A/W?
+Jill,Female,I'm gonna try to find a way to escape. You need to find that serum. Excella always kept it with her in an attache ca-- (static)
+Chris,Male,Jill! Come in! Jill!
+Chris,Male,Shit!
+Sheva,Female,Chris...this is it.
+Chris,Male,Let's give it a shot.
+Sheva,Female,A bomber equipped with missiles? He can't fly around in that without getting shot down...oh God!
+Chris,Male,"Exactly. The plane can't get shot down. If it does, it will initiate a biohazard."
+Sheva,Female,"It's just like Jill said, he's planning to spread this virus worldwide."
+Chris,Male,Looks that way. Things are worse than I thought. We have to stop him here and now.
+Emergency Voice,,Warning! Fire detected in the engine room! Warning! Sealing off area with primary bulkhead! Evacuate the area immediately!
+Emergency Voice,,Opening secondary bulkhead. Please maintain a safe distance from the bulkhead.
+Sheva,Female,"Come on! Open, damn you!"
+Emergency Voice,,Opening primary bulkhead. Please maintain a safe distance from the bulkhead.
+Sheva,Female,We'll never win in a fair fight! We need to fall back and come up with a plan!
+Sheva,Female,Something doesn't feel right...I can't explain it.
+Chris,Male,"Yeah, I hear you. Don't let your guard down for a second."
+Chris,Male,"Your plans are finished, Wesker!"
+Sheva,Female,There's no way out this time!
+Wesker,Male,Don't you two ever tire of failing in your mission? (takes off sunglasses) You've really become quite an inconvenience for me.
+Chris,Male,Why are you doing this? What do you accomplish by unleashing Uroboros?
+Wesker,Male,"Every day humans come one step closer to self destruction. I'm not destroying the world, I'm saving it!"
+Sheva,Female,This guy's lost it!
+Sheva,Female,Do it!
+Wesker,Male,"Things are really getting interesting now, eh Chris? Do you actually you can defeat me?"
+Chris,Male,"Either way, I'm not gonna stop until I'm dead!"
+Wesker,Male,I'll see you dead!
+Sheva,Female,"If we take advantage of the dark, we might actually hit him."
+Wesker,Male,There's no point in hiding. Is that all you have?
+Sheva,Female,"Every time we shoot, he dodges! Fighting in the dark might be our only chance!"
+Wesker,Male,Ignorant cretins! Has it never occured to you that this planet is overpopulated? Only a handful of humans truly matter. Everyone else is just so much chaff. So now I have to separate this chaff from the wheat. And with Uroboros I can finally accomplish this!
+Sheva,Female,I'll distract him!
+Sheva,Female,Now's our chance!
+Sheva,Female,I've got you now!
+Sheva,Female,Do it! Inject him!
+Wesker,Male,You can't hide forever.
+Wesker,Male,"Ah, there you are! You're merely postponing the inevitable. Only those with superior DNA will be chosen by Uroboros. Only those fit for survival will be allowed to carry their genes into a new age!"
+Chris,Male,"And let me guess, you're the one that's going to rule this new age, right?"
+Chris,Male,Do it now! Give him the shot!
+Sheva,Female,Did it work?
+Chris,Male,I think so.
+Wesker,Male,"This isn't over, Chris!"
+Chris,Male,"Sheva, he's getting away, hurry!"
+Chris,Male,"Sheva! Come on! Come on, grab on!"
+Wesker,Male,"It seems I may have underestimated you, Chris."
+Chris,Male,Save it Wesker. There's no one left to help you now.
+Wesker,Male,I don't need anyone else. (gets up) I have Uroboros. In less than five minutes we'll reach the optimal altitude for missile deployment. Uroboros will be released into the atmosphere ensuring complete global saturation.
+Wesker,Male,Your feeble attempts only delay the inevitable. The entire world will be infected.
+Wesker,Male,A new genesis is at hand and I will be the creator.
+Chris,Male,I've had enough of your bullshit!
+Chris,Male,You're just another one of Umbrella's leftovers.
+Sheva,Female,You know what we have to do.
+Chris,Male,"Alright, I'll go for the override lever. Cover me!"
+Wesker,Male,You'll pay for that!
+Chris,Male,Hang on!
+Chris,Male,No!!
+Wesker,Male,I'm taking the two of you with me.
+Sheva,Female,Like hell you will.
+Wesker,Male,I should have killed you years ago...Chris.
+Chris,Male,"Your mistake. It's over, Wesker!"
+Wesker,Male,Over? (laughs) I'm just getting started.
+Wesker,Male,"Time to die, Chris."
+Wesker,Male,"Why can't you understand, Chris?"
+Sheva,Female,Fall back!
+Wesker,Male,Do you really believe the world is worth saving?
+Wesker,Male,Natural selection leaves the survivors stronger and better. Humans have escaped this winnowing for far too long.
+Sheva,Female,"I've got him, CHRIS!"
+Wesker,Male,Damn you!
+Wesker,Male,"War and pestilence wherever you go. Everywhere, nothing but loathsome humans."
+Chris,Male,Just...hold on...Sheva!
+Wesker,Male,The human race requires judgment!
+Chris,Male,And you're going to judge us? Do you get all your ideas from comic book villains?
+Wesker,Male,Chriiis!
+Chris,Male,"Now, Sheva, shoot him!"
+Sheva,Female,I can't without hitting you!
+Chris,Male,Then shoot through me!
+Jill,Female,Grab on!
+Wesker,Male,CHRIS!!!
+Chris,Male,Hang on!
+Jill,Female,"Chris, Sheva, use those!"
+Chris,Male,Ready partner?
+Sheva,Female,Locked and loaded.
+Chris,Male,"Suck on this, Wesker."
+Sheva,Female,"Your time's up, you son of a bitch!"
+Sheva,Female,That was for our fallen brothers.
+Chris,Male,It's over.
+Sheva,Female,Yes.
+Jill,Female,Finally.
+Chris,Male,"Yeah, it's worth it."
