@@ -1,0 +1,54 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Load the CSV file
+csv_file_path = '/Users/kreestol/Downloads/RE2_Remake_Transcript.csv'
+dialogue_df = pd.read_csv(csv_file_path)
+
+# Load the text file with action words
+txt_file_path = '/Users/kreestol/Downloads/action words (1).txt'
+with open(txt_file_path, 'r') as file:
+    action_words = file.read().split('.')
+action_words = [word.strip().lower() for word in action_words if word.strip()]
+
+# Function to match verbs in a line and categorize by gender
+def match_verbs_and_categorize(dialogue_df, action_words):
+    male_verb_count = 0
+    female_verb_count = 0
+
+    for _, row in dialogue_df.iterrows():
+        line = str(row['Line']).lower()
+        gender = str(row['Gender']).strip().lower()
+        for verb in action_words:
+            if verb in line:
+                if gender == 'male':
+                    male_verb_count += 1
+                elif gender == 'female':
+                    female_verb_count += 1
+
+    return male_verb_count, female_verb_count
+
+# Count the verbs spoken by male and female characters
+male_verb_count, female_verb_count = match_verbs_and_categorize(dialogue_df, action_words)
+
+# Print results
+print(f"Male characters used {male_verb_count} verbs.")
+print(f"Female characters used {female_verb_count} verbs.")
+
+# Visualization
+categories = ['Male', 'Female']
+verb_counts = [male_verb_count, female_verb_count]
+
+# Create a bar chart
+plt.figure(figsize=(8, 6))
+plt.bar(categories, verb_counts, alpha=0.7)
+plt.title('Total Verbs Used by Gender', fontsize=14)
+plt.ylabel('Number of Verbs', fontsize=12)
+plt.xlabel('Gender', fontsize=12)
+plt.xticks(fontsize=10)
+plt.yticks(fontsize=10)
+plt.tight_layout()
+
+# Show the plot
+plt.show()
+
